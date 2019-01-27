@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Final",
+    "description": "",
+    "home_page_url": "https://anna-volhart.github.io/tat",
+    "feed_url": "https://anna-volhart.github.io/tat/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anna Volhart"
+    },
+    "items": [
+        {
+            "id": "https://anna-volhart.github.io/tat/cursus-geneeskunde-tandheelkunde.html",
+            "url": "https://anna-volhart.github.io/tat/cursus-geneeskunde-tandheelkunde.html",
+            "title": "Cursus",
+            "summary": " De cursus Voorbereiding Toelatingsexamen Arts &amp; Tandarts omvat alles om je klaar te stomen voor het wetenschapsgedeelte (KIW) van het Toelatingsexamen. In het eerste deel word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2019. Het tweede deel bestaat uit&hellip;",
+            "content_html": "<p><a href=\"https://www.skribis.be/nl/academisch/voorbereiding-toelatingsexamen-arts-tandarts.html\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"webshop-cursus-toelatingsexamen\"><img class=\"post__image--right\" src=\"file://C:/Users/bartj/Google Drive (tipsvoortat@gmail.com)/Publii/Sites/voorbereiding-toelatingsexamen/input/media/posts/44/cover-cursus-toelatingsexamen-geneeskunde-tandheelkunde.png\" width=\"210\" height=\"600\"></a></p>\n<p>De cursus Voorbereiding Toelatingsexamen Arts &amp; Tandarts omvat alles om je klaar te stomen voor het wetenschapsgedeelte (KIW) van het Toelatingsexamen.<br><br>In het eerste deel word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2019. Het tweede deel bestaat uit meer dan 600 uitgewerkte examenvragen van vorige jaargangen, ingedeeld per vak.</p>\n<p>Dankzij het systeem van kruisverwijzingen vind je bij elk topic uit de theorie referenties naar bijhorende oefeningen. Zo kan je jezelf testen en verwerf je inzicht in de manier waarop de theorie bevraagd wordt. Omgekeerd wordt bij elke oefening verwezen naar de bijhorende theorie, bijzonder handig als je nood hebt aan een opfrisser.</p>\n<p><a href=\"https://www.skribis.be/nl/academisch/voorbereiding-toelatingsexamen-arts-tandarts.html\" class=\"btn btn--green\">Webshop</a></p>",
+            "image": "https://anna-volhart.github.io/tat/media/posts/1/cursus-toelatingsexamen-geneeskunde-tandheelkunde-cover.png",
+            "author": {
+                "name": "Anna Volhart"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-27T22:21:03+01:00",
+            "date_modified": "2019-01-27T22:33:43+01:00"
+        }
+    ]
+}
