@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Final</title>
-    <link href="https://anna-volhart.github.io/tat/feed.xml" rel="self" />
-    <link href="https://anna-volhart.github.io/tat" />
-    <updated>2019-01-27T23:28:45+01:00</updated>
+    <link href="https://anna-volhart.github.io/feed.xml" rel="self" />
+    <link href="https://anna-volhart.github.io" />
+    <updated>2019-01-27T23:29:51+01:00</updated>
     <author>
         <name>Anna Volhart</name>
     </author>
-    <id>https://anna-volhart.github.io/tat</id>
+    <id>https://anna-volhart.github.io</id>
 
     <entry>
         <title>Inhoud</title>
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/inhoud-examen-tips.html"/>
-        <id>https://anna-volhart.github.io/tat/inhoud-examen-tips.html</id>
+        <link href="https://anna-volhart.github.io/inhoud-examen-tips.html"/>
+        <id>https://anna-volhart.github.io/inhoud-examen-tips.html</id>
 
         <updated>2019-01-27T23:21:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/16/inhoud-toelatingsexamen-geneeskunde-tandheelkunde.png" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/16/inhoud-toelatingsexamen-geneeskunde-tandheelkunde.png" alt="" />
                     Hieronder vind je een overzicht van de vorm en de inhoud van het Toelatingsexamen voor geneeskunde of tandheelkunde, zoals je ook kan nalezen op toelatingsexamenartstandarts.be. Het examen bestaat uit een voormiddag- en namiddaggedeelte. Alle vragen zijn meerkeuzevragen met telkens vier antwoordmogelijkheden. Je krijgt een werkbundel met alle examenvragen en een antwoordblad. Op dit laatste dien&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/16/inhoud-toelatingsexamen-geneeskunde-tandheelkunde.png" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/16/inhoud-toelatingsexamen-geneeskunde-tandheelkunde.png" alt="" />
                 <p>Hieronder vind je een overzicht van de vorm en de inhoud van het Toelatingsexamen voor geneeskunde of tandheelkunde, zoals je ook kan nalezen op <a href="https://toelatingsexamenartstandarts.be/" target="_blank" rel="noopener noreferrer">toelatingsexamenartstandarts.be</a>.</p>
 <p>Het examen bestaat uit een voormiddag- en namiddaggedeelte. Alle vragen zijn meerkeuzevragen met telkens vier antwoordmogelijkheden.  Je krijgt een werkbundel met alle examenvragen en een antwoordblad. Op dit laatste dien je de correcte oplossing aan te duiden, door het inkleuren van een bolletje. </p>
 <p>Er wordt giscorrectie toegepast, je krijgt 3 punten voor een juist antwoord en je wordt bestraft met -1 punt voor een foutief antwoord. Als je de vraag open laat krijg je uiteraard geen punt (ook geen strafpunt).</p>
@@ -65,19 +65,19 @@
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.html"/>
-        <id>https://anna-volhart.github.io/tat/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.html</id>
+        <link href="https://anna-volhart.github.io/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.html"/>
+        <id>https://anna-volhart.github.io/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.html</id>
 
         <updated>2019-01-27T23:19:52+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/15/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/15/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                     Er zijn verschillende manieren waarop je je kan voorbereiden: Je kan deelnemen aan voorbereidingscursussen georganiseerd door de universiteiten van Brussel, Leuven en Hasselt. Je kan je ook inschrijven in een studiebureau, waar je persoonlijke begeleiding krijgt. Dit kost echter wel wat meer. Je kan uiteraard ook het heft in eigen handen nemen. Hierbij is een goede cursus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/15/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/15/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                 <p>Er zijn verschillende manieren waarop je je kan voorbereiden:</p>
 <p>Je kan deelnemen aan voorbereidingscursussen georganiseerd door de universiteiten van <a href="https://www.ikworddokter.be/toegangsexamen/voorbereidingslessen">Brussel</a>, <a href="https://med.kuleuven.be/nl/algemeen/toelatingsexamen">Leuven</a> en <a href="https://www.uhasselt.be/Toelatingsexamen-arts">Hasselt</a>.</p>
 <p>Je kan je ook inschrijven in een studiebureau, waar je persoonlijke begeleiding krijgt. Dit kost echter wel wat meer.</p>
@@ -97,19 +97,19 @@
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/resultaat-toelatingsexamen.html"/>
-        <id>https://anna-volhart.github.io/tat/resultaat-toelatingsexamen.html</id>
+        <link href="https://anna-volhart.github.io/resultaat-toelatingsexamen.html"/>
+        <id>https://anna-volhart.github.io/resultaat-toelatingsexamen.html</id>
 
         <updated>2019-01-27T23:27:29+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/13/resultaat-cursus-geslaagd-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/13/resultaat-cursus-geslaagd-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                     Om te slagen op het Toelatingsexamen Arts &amp; Tandarts dien je op zowel het KIW-gedeelte als het GC-gedeelte minimum de helft van de punten te behalen. Beide delen staan op 120 punten. Sinds 2018 wordt een systeem van rangschikking toegepast. De x-aantal geslaagden met de hoogste punten (cesuur) worden gunstig gerangschikt. Geslaagd zijn alleen is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/13/resultaat-cursus-geslaagd-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/13/resultaat-cursus-geslaagd-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                 <p>Om te slagen op het Toelatingsexamen Arts &amp; Tandarts dien je op zowel het <a href="#INTERNAL_LINK#/post/16">KIW-gedeelte</a> als het <a href="#INTERNAL_LINK#/post/16">GC-gedeelte</a> minimum de helft van de punten te behalen. Beide delen staan op 120 punten.</p>
 <p>Sinds 2018 wordt een systeem van rangschikking toegepast. De x-aantal geslaagden met de hoogste punten (cesuur) worden gunstig gerangschikt. Geslaagd zijn alleen is dus niet langer voldoende. Bij je inschrijving dien je op voorhand aan te geven of je gerangschikt wil worden of niet. Sommige niet-laatstejaarsleerlingen kunnen immers ook deelnemen aan het examen maar mogen het volgende academiejaar de studies geneeskunde of tandheelkunde nog niet aanvatten.</p>
 <p>Voor 2019 gelden de punten van de kandidaat op plaats 1.153 voor het examen Arts en op plaats 147 voor het examen Tandarts als cesuur. Deze eerste 1.153 of 147 eerst gerangschikten mogen respectievelijk de opleiding geneeskunde of tandheelkunde aanvatten.</p>
@@ -128,19 +128,19 @@
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/ijkingstoets-diergeneeskunde.html"/>
-        <id>https://anna-volhart.github.io/tat/ijkingstoets-diergeneeskunde.html</id>
+        <link href="https://anna-volhart.github.io/ijkingstoets-diergeneeskunde.html"/>
+        <id>https://anna-volhart.github.io/ijkingstoets-diergeneeskunde.html</id>
 
         <updated>2019-01-27T23:05:59+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/8/diergeneeskunde-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/8/diergeneeskunde-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                     Sinds 2013 worden er voor verschillende studierichtingen ijkingstoetsen georganiseerd door de universiteiten in Vlaanderen. Meer informatie hierover vind je op de website: ijkingstoets.be. Voor de meeste studierichtingen is een ijkingstoets niet verplicht. Indien je echter de studies diergeneeskunde wil aanvatten, ben je wel verplicht hier aan deel te nemen. Deze ijkingstoets is niet bindend, de universiteit kan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/8/diergeneeskunde-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/8/diergeneeskunde-toelatingsexamen-geneeskunde-tandheelkunde.jpg" alt="" />
                 <p>Sinds 2013 worden er voor verschillende studierichtingen ijkingstoetsen georganiseerd door de universiteiten in Vlaanderen. Meer informatie hierover vind je op de website: <a href="https://www.ijkingstoets.be/" target="_blank" rel="noopener noreferrer">ijkingstoets.be</a>.</p>
 <p>Voor de meeste studierichtingen is een ijkingstoets niet verplicht. Indien je echter de studies <strong>diergeneeskunde</strong> wil aanvatten, ben je wel <strong>verplicht</strong> hier aan deel te nemen.</p>
 <p>Deze ijkingstoets is <strong>niet bindend</strong>, de universiteit kan je inschrijving niet weigeren op basis van je punten. Je dient wel een deelname-attest voor te leggen bij je inschrijving aan de universiteit van jouw keuze.</p>
@@ -154,13 +154,13 @@
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/geneeskunde-tandheelkunde-studeren.html"/>
-        <id>https://anna-volhart.github.io/tat/geneeskunde-tandheelkunde-studeren.html</id>
+        <link href="https://anna-volhart.github.io/geneeskunde-tandheelkunde-studeren.html"/>
+        <id>https://anna-volhart.github.io/geneeskunde-tandheelkunde-studeren.html</id>
 
         <updated>2019-01-27T22:56:55+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/2/" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/2/" alt="" />
                     <h2 class="align-left">Geneeskunde of tandheelkunde studeren?</h2>
 <p class="align-left">Denk je erover na de studies geneeskunde of tandheelkunde aan te vatten? Dan dien je in Vlaanderen te slagen én gunstig gerangschikt te worden voor het Toelatingsexamen Arts &amp; Tandarts.</p>
 <p class="align-left">Deze rangschikking werd sedert 2018 doorgevoerd. Sindsdien wordt het Toelatingsexamen Arts &amp; Tandarts slechts één keer per jaar georgansieerd.  </p>
@@ -172,7 +172,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/2/" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/2/" alt="" />
                 <h2 class="align-left">Geneeskunde of tandheelkunde studeren?</h2>
 <p class="align-left">Denk je erover na de studies geneeskunde of tandheelkunde aan te vatten? Dan dien je in Vlaanderen te slagen én gunstig gerangschikt te worden voor het Toelatingsexamen Arts &amp; Tandarts.</p>
 <p class="align-left">Deze rangschikking werd sedert 2018 doorgevoerd. Sindsdien wordt het Toelatingsexamen Arts &amp; Tandarts slechts één keer per jaar georgansieerd.  </p>
@@ -189,19 +189,19 @@
         <author>
             <name>Anna Volhart</name>
         </author>
-        <link href="https://anna-volhart.github.io/tat/cursus-geneeskunde-tandheelkunde.html"/>
-        <id>https://anna-volhart.github.io/tat/cursus-geneeskunde-tandheelkunde.html</id>
+        <link href="https://anna-volhart.github.io/cursus-geneeskunde-tandheelkunde.html"/>
+        <id>https://anna-volhart.github.io/cursus-geneeskunde-tandheelkunde.html</id>
 
         <updated>2019-01-27T22:33:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anna-volhart.github.io/tat/media/posts/1/cursus-toelatingsexamen-geneeskunde-tandheelkunde-cover.png" alt="" />
+                        <img src="https://anna-volhart.github.io/media/posts/1/cursus-toelatingsexamen-geneeskunde-tandheelkunde-cover.png" alt="" />
                      De cursus Voorbereiding Toelatingsexamen Arts &amp; Tandarts omvat alles om je klaar te stomen voor het wetenschapsgedeelte (KIW) van het Toelatingsexamen. In het eerste deel word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2019. Het tweede deel bestaat uit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anna-volhart.github.io/tat/media/posts/1/cursus-toelatingsexamen-geneeskunde-tandheelkunde-cover.png" alt="" />
+                    <img src="https://anna-volhart.github.io/media/posts/1/cursus-toelatingsexamen-geneeskunde-tandheelkunde-cover.png" alt="" />
                 <p><a href="https://www.skribis.be/nl/academisch/voorbereiding-toelatingsexamen-arts-tandarts.html" target="_blank" rel="noopener noreferrer" title="webshop-cursus-toelatingsexamen"><img class="post__image--right" src="file://C:/Users/bartj/Google Drive (tipsvoortat@gmail.com)/Publii/Sites/voorbereiding-toelatingsexamen/input/media/posts/44/cover-cursus-toelatingsexamen-geneeskunde-tandheelkunde.png" width="210" height="600"></a></p>
 <p>De cursus Voorbereiding Toelatingsexamen Arts &amp; Tandarts omvat alles om je klaar te stomen voor het wetenschapsgedeelte (KIW) van het Toelatingsexamen.<br><br>In het eerste deel word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2019. Het tweede deel bestaat uit meer dan 600 uitgewerkte examenvragen van vorige jaargangen, ingedeeld per vak.</p>
 <p>Dankzij het systeem van kruisverwijzingen vind je bij elk topic uit de theorie referenties naar bijhorende oefeningen. Zo kan je jezelf testen en verwerf je inzicht in de manier waarop de theorie bevraagd wordt. Omgekeerd wordt bij elke oefening verwezen naar de bijhorende theorie, bijzonder handig als je nood hebt aan een opfrisser.</p>
