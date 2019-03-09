@@ -287,7 +287,6 @@ dl dt {
 pre {
   background-color: #F7F8FB;
   font-size: 0.88889rem;
-  max-height: 30rem;
   padding: 1.7rem;
   white-space: pre-wrap;
   word-wrap: break-word; }
@@ -961,7 +960,7 @@ textarea {
             line-height: 1.4;
             margin: 0;
             padding: 0.56667rem 1.13333rem; }
-          .navbar__submenu li:hover a {
+          .navbar__submenu li:hover > a {
             background: #F7F5EA !important; }
           .navbar__submenu li ul {
             left: 100% !important;
@@ -1386,10 +1385,12 @@ textarea {
   .page__item--hero__btn {
     margin-top: calc(1.98333rem + 0.25vw); }
   .page__grid {
+    display: -ms-grid;
     display: grid;
     grid-gap: 2rem 3rem; }
     @media all and (min-width: 56.25em) {
       .page__grid {
+        -ms-grid-columns: (1fr)[2];
         grid-template-columns: repeat(2, 1fr); } }
     .page__grid h2 {
       margin-top: 0; }
@@ -1814,6 +1815,7 @@ textarea {
   .instagram-box--flat {
     padding: 5rem 0 1.13333rem; }
   .instagram-box__wrapper {
+    display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(8rem, -webkit-max-content));
     grid-template-columns: repeat(auto-fit, minmax(8rem, max-content));
