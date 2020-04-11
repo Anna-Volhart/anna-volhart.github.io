@@ -1,0 +1,1228 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-vMKRtbQ9h8VmzccMNdmnlBnTLM9zZar8f9BKU3A5UNRZgr3o2+zXRScLx7V1nd9HupewEuevhEx2D3yuqNpkXw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-bcc291b5b43d87c566cdc70c35d9a794.css" />
+    
+    
+    
+    
+
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>anna-volhart.github.io/style.css at master · Anna-Volhart/anna-volhart.github.io</title>
+    <meta name="description" content="Contribute to Anna-Volhart/anna-volhart.github.io development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/47089845?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Anna-Volhart/anna-volhart.github.io" /><meta name="twitter:description" content="Contribute to Anna-Volhart/anna-volhart.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/47089845?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Anna-Volhart/anna-volhart.github.io" /><meta property="og:url" content="https://github.com/Anna-Volhart/anna-volhart.github.io" /><meta property="og:description" content="Contribute to Anna-Volhart/anna-volhart.github.io development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTIxNTc1NjU3OjNjOTkxMWU1MGU0N2Q5NmUxYjc0YjA3NTFhYzI2MjNmNWY1OTNmZTk0N2UyYWY1YTU5MGY2ZGU2MDg4ZGVkMWI=--7c7645d78ce5281451a4f94cf711ff1dc3ad9c98">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+  <meta name="request-id" content="EB00:26A21:190B53C:2424B82:5E923C71" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f8b827e1081c0fdd9273cfde134916c7ab5b3bf0" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Bbm5hLVZvbGhhcnQvYW5uYS12b2xoYXJ0LmdpdGh1Yi5pby90cmVlL21hc3Rlci9hc3NldHMvY3NzIiwicmVxdWVzdF9pZCI6IkVCMDA6MjZBMjE6MTkwQjUzQzoyNDI0QjgyOjVFOTIzQzcxIiwidmlzaXRvcl9pZCI6Ijc3Mzk0ODM0NTIwMjUyNTQ3NCIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="bd1a3ecc9ca319b5a65e015b5c68448b83d213f28a2e2024a1d039a42719823e" data-pjax-transient="true" />
+
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-actor-id" content="47089845" /><meta name="octolytics-actor-login" content="Anna-Volhart" /><meta name="octolytics-actor-hash" content="278cfebdb11c75d5dedc36c3fb053fc30a8ebcccbc766c3e80fc3b465aac071a" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+  <meta class="js-ga-set" name="userId" content="e545b415a0f87b1d5e7b62455029cc24">
+
+<meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="Anna-Volhart">
+
+      <meta name="expected-hostname" content="github.com">
+
+      <meta name="js-proxy-site-detection-payload" content="MDU5Y2QzOWYwYjc2YWIxODUxZTllNmEzZmY3NjFlMDEyMjAyMTYyM2FmNTdhZGMzZWUyYTJkNmViOTVhNmIxZXx7InJlbW90ZV9hZGRyZXNzIjoiODEuMTY0LjEyNS4xNzIiLCJyZXF1ZXN0X2lkIjoiRUIwMDoyNkEyMToxOTBCNTNDOjI0MjRCODI6NUU5MjNDNzEiLCJ0aW1lc3RhbXAiOjE1ODY2NDIwMzcsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+    <meta name="enabled-features" content="MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
+
+  <meta http-equiv="x-pjax-version" content="17bc53639b6593968397760e36d80b86">
+  
+
+      <link href="https://github.com/Anna-Volhart/anna-volhart.github.io/commits/master.atom" rel="alternate" title="Recent Commits to anna-volhart.github.io:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/Anna-Volhart/anna-volhart.github.io git https://github.com/Anna-Volhart/anna-volhart.github.io.git">
+
+  <meta name="octolytics-dimension-user_id" content="47089845" /><meta name="octolytics-dimension-user_login" content="Anna-Volhart" /><meta name="octolytics-dimension-repository_id" content="167857681" /><meta name="octolytics-dimension-repository_nwo" content="Anna-Volhart/anna-volhart.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="167857681" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Anna-Volhart/anna-volhart.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-responsive page-blob">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
+        <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
+      </span>
+
+      
+      
+
+
+
+          <header class="Header js-details-container Details flex-wrap flex-lg-nowrap p-responsive" role="banner">
+
+  <div class="Header-item d-none d-lg-flex">
+    <a class="Header-link" href="https://github.com/" data-hotkey="g d"
+  aria-label="Homepage " data-ga-click="Header, go to dashboard, icon:logo">
+  <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+
+  </div>
+
+  <div class="Header-item d-lg-none">
+    <button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+      <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg>
+    </button>
+  </div>
+
+  <div class="Header-item Header-item--full flex-column flex-lg-row width-full flex-order-2 flex-lg-order-none mr-0 mr-lg-3 mt-3 mt-lg-0 Details-content--hidden">
+      <div class="header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="167857681" data-scoped-search-url="/Anna-Volhart/anna-volhart.github.io/search" data-unscoped-search-url="/search" action="/Anna-Volhart/anna-volhart.github.io/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search or jump to…"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search or jump to…"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" value="xy/UDYBCekk24EPIHYF5SfMbLi57RWWwohijP1aHHiFPJTp8dGW81aEWk4zBKC4ckHIgq+LvG+Uks4dPJ44gNw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+    <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
+      <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+    </li>
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+
+    <nav class="d-flex flex-column flex-lg-row flex-self-stretch flex-lg-self-auto" aria-label="Global">
+    <a class="Header-link d-block d-lg-none py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
+      Dashboard
+</a>
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+    Pull requests
+</a>
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+    Issues
+</a>
+
+    <div class="mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15">
+      <a class="js-selected-navigation-item Header-link" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
+        Marketplace
+</a>      
+
+    </div>
+
+  <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+    Explore
+</a>
+
+
+    <a class="Header-link d-block d-lg-none mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" href="https://github.com/Anna-Volhart">
+      <img class="avatar" height="20" width="20" alt="@Anna-Volhart" src="https://avatars2.githubusercontent.com/u/47089845?s=60&amp;v=4" />
+      Anna-Volhart
+</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jwcVkKN7ZmCaA2m2YO5pla7kv6Z03u7UYDWQA/tuH9+nDw7aXWZN+a/6jRmcEr6mzLHSIxBc4G6vxYW8RJ4ocQ==" />
+      <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
+        <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 17" version="1.1" width="16" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"></path></svg>
+        Sign out
+      </button>
+</form></nav>
+
+  </div>
+
+  <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
+    <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
+                <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+    <a class="Header-link" href="/Anna-Volhart">Anna-Volhart</a>
+    /
+    <a class="Header-link" href="/Anna-Volhart/anna-volhart.github.io">anna-volhart.github.io</a>
+
+</div>
+  </div>
+
+  <div class="Header-item mr-0 mr-lg-3 flex-order-1 flex-lg-order-none">
+    
+
+    <a aria-label="You have no unread notifications" class="Header-link notification-indicator position-relative tooltipped tooltipped-sw js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:47089845" href="/notifications/beta">
+        <span class="js-indicator-modifier mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"></path></svg>
+</a>
+  </div>
+
+
+  <div class="Header-item position-relative d-none d-lg-flex">
+    <details class="details-overlay details-reset">
+  <summary class="Header-link"
+      aria-label="Create new…"
+      data-ga-click="Header, create new, icon:add">
+    <svg class="octicon octicon-plus" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"></path></svg> <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="dropdown-menu dropdown-menu-sw">
+    
+<a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a role="menuitem" class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+  <div role="none" class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="Anna-Volhart/anna-volhart.github.io">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/Anna-Volhart/anna-volhart.github.io/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+      New issue
+    </a>
+
+
+  </details-menu>
+</details>
+
+  </div>
+
+  <div class="Header-item position-relative mr-0 d-none d-lg-flex">
+    
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/Anna-Volhart/feature_preview/indicator_check">
+
+  <summary class="Header-link"
+    aria-label="View profile and more"
+    data-ga-click="Header, show menu, icon:avatar">
+    <img class="avatar " alt="@Anna-Volhart" width="20" height="20" src="https://avatars2.githubusercontent.com/u/47089845?s=60&amp;v=4">
+
+
+      <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="dropdown-menu dropdown-menu-sw mt-2" style="width: 180px">
+    <div class="header-nav-current-user css-truncate"><a role="menuitem" class="no-underline user-profile-link px-3 pt-2 pb-2 mb-n2 mt-n1 d-block" href="/Anna-Volhart" data-ga-click="Header, go to profile, text:Signed in as">Signed in as <strong class="css-truncate-target">Anna-Volhart</strong></a></div>
+    <div role="none" class="dropdown-divider"></div>
+
+      <div class="pl-3 pr-3 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
+        
+<div class="js-user-status-container
+    user-status-compact rounded-1 px-2 py-1 mt-2
+    border
+  " data-team-hovercards-enabled>
+  <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:47089845,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:47089845,&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;}}" data-hydro-click-hmac="180a5cee028b8a4971f585a42c4f139e1e3b2c1030310ed52f5769eec8805e5b">
+      <div class="d-flex">
+        <div class="f6 lh-condensed user-status-header
+          d-inline-block v-align-middle
+            user-status-emoji-only-header circle
+            pr-2
+"
+            style="max-width: 29px"
+          >
+          <div class="user-status-emoji-container flex-shrink-0 mr-1 mt-1 lh-condensed-ultra v-align-bottom" style="">
+            <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 01-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 01-1.45-2.17A6.59 6.59 0 011.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 018 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"></path></svg>
+          </div>
+        </div>
+        <div class="
+          d-inline-block v-align-middle
+          
+          
+           css-truncate css-truncate-target 
+           user-status-message-wrapper f6"
+           style="line-height: 20px;" >
+          <div class="d-inline-block text-gray-dark v-align-text-top text-left">
+              <span class="text-gray ml-2">Set status</span>
+          </div>
+        </div>
+      </div>
+    </summary>
+    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="7EO1hBFkWKXTDZTWqtC8mdqNMRd2ZW98/P7EfWYKoCzb9TdQY7fJ8ch7T9dnog48MKg6Qa1AS8y1X31IRxHTlw==" />
+        <div class="Box-header bg-gray border-bottom p-3">
+          <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+          </button>
+          <h3 class="Box-title f5 text-bold text-gray-dark">Edit status</h3>
+        </div>
+        <input type="hidden" name="emoji" class="js-user-status-emoji-field" value="">
+        <input type="hidden" name="organization_id" class="js-user-status-org-id-field" value="">
+        <div class="px-3 py-2 text-gray-dark">
+          <div class="js-characters-remaining-container position-relative mt-2">
+            <div class="input-group d-table form-group my-0 js-user-status-form-group">
+              <span class="input-group-button d-table-cell v-align-middle" style="width: 1%">
+                <button type="button" aria-label="Choose an emoji" class="btn-outline btn js-toggle-user-status-emoji-picker btn-open-emoji-picker p-0">
+                  <span class="js-user-status-original-emoji" hidden></span>
+                  <span class="js-user-status-custom-emoji"></span>
+                  <span class="js-user-status-no-emoji-icon" >
+                    <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 01-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 01-1.45-2.17A6.59 6.59 0 011.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 018 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"></path></svg>
+                  </span>
+                </button>
+              </span>
+              <text-expander keys=": @" data-mention-url="/autocomplete/user-suggestions" data-emoji-url="/autocomplete/emoji">
+                <input
+                  type="text"
+                  autocomplete="off"
+                  data-no-org-url="/autocomplete/user-suggestions"
+                  data-org-url="/suggestions?mention_suggester=1"
+                  data-maxlength="80"
+                  class="d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field"
+                  placeholder="What's happening?"
+                  name="message"
+                  value=""
+                  aria-label="What is your current status?">
+              </text-expander>
+              <div class="error">Could not update your status, please try again.</div>
+            </div>
+            <div style="margin-left: 53px" class="my-1 text-small label-characters-remaining js-characters-remaining" data-suffix="remaining" hidden>
+              80 remaining
+            </div>
+          </div>
+          <include-fragment class="js-user-status-emoji-picker" data-url="/users/status/emoji"></include-fragment>
+          <div class="overflow-auto ml-n3 mr-n3 px-3 border-bottom" style="max-height: 33vh">
+            <div class="user-status-suggestions js-user-status-suggestions collapsed overflow-hidden">
+              <h4 class="f6 text-normal my-3">Suggestions:</h4>
+              <div class="mx-3 mt-2 clearfix">
+                  <div class="float-left col-6">
+                      <button type="button" value=":palm_tree:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          On vacation
+                        </div>
+                      </button>
+                      <button type="button" value=":face_with_thermometer:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Out sick
+                        </div>
+                      </button>
+                  </div>
+                  <div class="float-left col-6">
+                      <button type="button" value=":house:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Working from home
+                        </div>
+                      </button>
+                      <button type="button" value=":dart:" class="d-flex flex-items-baseline flex-items-stretch lh-condensed f6 btn-link link-gray no-underline js-predefined-user-status mb-1">
+                        <div class="emoji-status-width mr-2 v-align-middle js-predefined-user-status-emoji">
+                          <g-emoji alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji>
+                        </div>
+                        <div class="d-flex flex-items-center no-underline js-predefined-user-status-message ws-normal text-left" style="border-left: 1px solid transparent">
+                          Focusing
+                        </div>
+                      </button>
+                  </div>
+              </div>
+            </div>
+            <div class="user-status-limited-availability-container">
+              <div class="form-checkbox my-0">
+                <input type="checkbox" name="limited_availability" value="1" class="js-user-status-limited-availability-checkbox" data-default-message="I may be slow to respond." aria-describedby="limited-availability-help-text-truncate-true-compact-true" id="limited-availability-truncate-true-compact-true">
+                <label class="d-block f5 text-gray-dark mb-1" for="limited-availability-truncate-true-compact-true">
+                  Busy
+                </label>
+                <p class="note" id="limited-availability-help-text-truncate-true-compact-true">
+                  When others mention you, assign you, or request your review,
+                  GitHub will let them know that you have limited availability.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="d-inline-block f5 mr-2 pt-3 pb-2" >
+  <div class="d-inline-block mr-1">
+    Clear status
+  </div>
+
+  <details class="js-user-status-expire-drop-down f6 dropdown details-reset details-overlay d-inline-block mr-2">
+    <summary class="f5 btn-link link-gray-dark border px-2 py-1 rounded-1" aria-haspopup="true">
+      <div class="js-user-status-expiration-interval-selected d-inline-block v-align-baseline">
+        Never
+      </div>
+      <div class="dropdown-caret"></div>
+    </summary>
+
+    <ul class="dropdown-menu dropdown-menu-se pl-0 overflow-auto" style="width: 220px; max-height: 15.5em">
+      <li>
+        <button type="button" class="btn-link dropdown-item js-user-status-expire-button ws-normal" title="Never">
+          <span class="d-inline-block text-bold mb-1">Never</span>
+          <div class="f6 lh-condensed">Keep this status until you clear your status or edit your status.</div>
+        </button>
+      </li>
+      <li class="dropdown-divider" role="none"></li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-04-12T00:23:57+02:00">
+            in 30 minutes
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-04-12T00:53:57+02:00">
+            in 1 hour
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-04-12T03:53:57+02:00">
+            in 4 hours
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-04-11T23:59:59+02:00">
+            today
+          </button>
+        </li>
+        <li>
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2020-04-12T23:59:59+02:00">
+            this week
+          </button>
+        </li>
+    </ul>
+  </details>
+  <input class="js-user-status-expiration-date-input" type="hidden" name="expires_at" value="">
+</div>
+
+          <include-fragment class="js-user-status-org-picker" data-url="/users/status/organizations"></include-fragment>
+        </div>
+        <div class="d-flex flex-items-center flex-justify-between p-3 border-top">
+          <button type="submit" disabled class="width-full btn btn-primary mr-2 js-user-status-submit">
+            Set status
+          </button>
+          <button type="button" disabled class="width-full js-clear-user-status-button btn ml-2 ">
+            Clear status
+          </button>
+        </div>
+</form>    </details-dialog>
+  </details>
+</div>
+
+      </div>
+      <div role="none" class="dropdown-divider"></div>
+
+    <a role="menuitem" class="dropdown-item" href="/Anna-Volhart" data-ga-click="Header, go to profile, text:your profile">Your profile</a>
+
+    <a role="menuitem" class="dropdown-item" href="/Anna-Volhart?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a>
+
+    <a role="menuitem" class="dropdown-item" href="/Anna-Volhart?tab=projects" data-ga-click="Header, go to projects, text:your projects">Your projects</a>
+
+    <a role="menuitem" class="dropdown-item" href="/Anna-Volhart?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists">Your gists</a>
+
+
+
+
+
+    <div role="none" class="dropdown-divider"></div>
+      
+<div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
+  <button
+    type="button"
+    class="dropdown-item btn-link"
+    role="menuitem"
+    data-feature-preview-trigger-url="/users/Anna-Volhart/feature_previews"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;,&quot;user_id&quot;:47089845}}"
+    data-feature-preview-close-hmac="d8b6a3d42d0cef1309508630601b4d841521fc1714436550503969d1721e63fc"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;,&quot;user_id&quot;:47089845}}"
+    data-hydro-click-hmac="889fb9abdde1803695478884c3aca559e2931b8f0f8b26ae037439c0d54687fe"
+  >
+    Feature preview
+  </button>
+    <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
+</div>
+
+    <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v0zWJh/2CdwQir9pM1Xm5lFZQ+fhu4Imhq97Lx+Qu/GXRM1s4esiRSVzW8bPqTHVMwwuYoU5jJxJX26QoGCMXw==" />
+      
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
+        Sign out
+      </button>
+      <input type="text" name="required_field_c1e7" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1586642037985" class="form-control" /><input type="hidden" name="timestamp_secret" value="02d204171edf7059add2da6f2aad493c04b4065735008a5230ddab8b16c3052d" class="form-control" />
+</form>  </details-menu>
+</details>
+
+  </div>
+
+</header>
+
+        
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+    <div id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  js-flash-template-container">
+  <div class="container-lg px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    
+      <div class="js-flash-template-message"></div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+      
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main  >
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead hx_repohead readability-menu bg-gray-light pb-0 pt-0 pt-lg-3">
+
+    <div class="d-flex container-lg mb-4 p-responsive d-none d-lg-flex">
+
+      <div class="flex-auto min-width-0 width-fit mr-3">
+        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
+    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  <span class="author ml-1 flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Anna-Volhart/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Anna-Volhart">Anna-Volhart</a>
+  </span>
+  <span class="path-divider flex-self-stretch">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/Anna-Volhart/anna-volhart.github.io">anna-volhart.github.io</a>
+  </strong>
+  
+</h1>
+
+
+      </div>
+
+      <ul class="pagehead-actions flex-shrink-0 " >
+
+
+
+
+  <li>
+    
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ep854nLatEKemvo/wtvzrtiUgZg1gu6BOvf16wMbE9NY4Vv3r0Ck3NXgZ6kIOhpmwMNlFPOCf/7TwRiDG5h6zg==" />      <input type="hidden" name="repository_id" value="167857681">
+
+      <details class="details-reset details-overlay select-menu float-left">
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:167857681,&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;,&quot;user_id&quot;:47089845}}" data-hydro-click-hmac="26dc2c1979685f3ed13fea845109b4838bc370705107a5295f932585084dfca6" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+              <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+              Watch
+          </span>
+</summary>        <details-menu
+          class="select-menu-modal position-absolute mt-5"
+          style="z-index: 99;">
+          <div class="select-menu-header">
+            <span class="select-menu-title">Notifications</span>
+          </div>
+          <div class="select-menu-list">
+            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Not watching</span>
+                <span class="description">Be notified only when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+                  Watch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="release_only" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Releases only</span>
+                <span class="description">Be notified of new releases, and when participating or @mentioned.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+                  Unwatch releases
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Watching</span>
+                <span class="description">Be notified of all conversations.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+                  Unwatch
+                </span>
+              </div>
+            </button>
+
+            <button type="submit" name="do" value="ignore" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <div class="select-menu-item-text">
+                <span class="select-menu-item-heading">Ignoring</span>
+                <span class="description">Never be notified.</span>
+                <span class="hidden-select-button-text" data-menu-button-contents>
+                  <svg class="octicon octicon-mute v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"></path></svg>
+                  Stop ignoring
+                </span>
+              </div>
+            </button>
+          </div>
+        </details-menu>
+      </details>
+        <a class="social-count js-social-count"
+          href="/Anna-Volhart/anna-volhart.github.io/watchers"
+          aria-label="0 users are watching this repository">
+          0
+        </a>
+</form>
+  </li>
+
+  <li>
+      <div class="js-toggler-container js-social-container starring-container ">
+    <form class="starred js-social-form" action="/Anna-Volhart/anna-volhart.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="k6xqHCQz/xhkUrDHb95cYHmOrgcncFvlOi7UlQ3hi6+RWZMCykoeA112M96aOs+iP2W2rfVfTJ83IfFcfPn8xg==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar Anna-Volhart/anna-volhart.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:167857681,&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;,&quot;user_id&quot;:47089845}}" data-hydro-click-hmac="8d2777a2d9369415320ec35d2e69ce5fcc45e6fb8c2e79a6c7beb49b0edfd1f0" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+
+        Unstar
+</button>        <a class="social-count js-social-count" href="/Anna-Volhart/anna-volhart.github.io/stargazers"
+           aria-label="0 users starred this repository">
+           0
+        </a>
+</form>
+    <form class="unstarred js-social-form" action="/Anna-Volhart/anna-volhart.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M2+1hfqKEpJk4sQNrmkXxcaE0FGeFjo2fqODwJJzqani16B5liv3U2K6X0hPcKnJSkS1ZSjg0HozkHVI4JVJkw==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star Anna-Volhart/anna-volhart.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:167857681,&quot;originating_url&quot;:&quot;https://github.com/Anna-Volhart/anna-volhart.github.io/blob/master/assets/css/style.css&quot;,&quot;user_id&quot;:47089845}}" data-hydro-click-hmac="dee144ec1a59d4aa08e9bcb120c21989e2fc5285a175b5f4c4901bba154a8609" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+
+        Star
+</button>        <a class="social-count js-social-count" href="/Anna-Volhart/anna-volhart.github.io/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+        <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
+          <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          Fork
+</span>
+    <a href="/Anna-Volhart/anna-volhart.github.io/network/members" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+    </div>
+      
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax clearfix container-lg p-responsive d-none d-lg-block"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /Anna-Volhart/anna-volhart.github.io" href="/Anna-Volhart/anna-volhart.github.io">
+      <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg></div>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /Anna-Volhart/anna-volhart.github.io/issues" href="/Anna-Volhart/anna-volhart.github.io/issues">
+        <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /Anna-Volhart/anna-volhart.github.io/pulls" href="/Anna-Volhart/anna-volhart.github.io/pulls">
+      <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="4">
+</a>  </span>
+
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left">
+      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /Anna-Volhart/anna-volhart.github.io/actions" href="/Anna-Volhart/anna-volhart.github.io/actions">
+        <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"></path></svg></div>
+        Actions
+</a>
+    </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /Anna-Volhart/anna-volhart.github.io/projects" href="/Anna-Volhart/anna-volhart.github.io/projects">
+      <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg></div>
+      Projects
+      <span class="Counter">0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /Anna-Volhart/anna-volhart.github.io/wiki" href="/Anna-Volhart/anna-volhart.github.io/wiki">
+      <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path></svg></div>
+      Wiki
+</a>
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Anna-Volhart/anna-volhart.github.io/security" href="/Anna-Volhart/anna-volhart.github.io/security">
+      <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path></svg></div>
+      Security
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /Anna-Volhart/anna-volhart.github.io/pulse" href="/Anna-Volhart/anna-volhart.github.io/pulse">
+      <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg></div>
+      Insights
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications /Anna-Volhart/anna-volhart.github.io/settings" href="/Anna-Volhart/anna-volhart.github.io/settings">
+      <div class="d-inline"><svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"></path></svg></div>
+      Settings
+</a>
+</nav>
+
+  <div class="reponav-wrapper reponav-small d-lg-none">
+  <nav class="reponav js-reponav text-center no-wrap"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /Anna-Volhart/anna-volhart.github.io" href="/Anna-Volhart/anna-volhart.github.io">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /Anna-Volhart/anna-volhart.github.io/issues" href="/Anna-Volhart/anna-volhart.github.io/issues">
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /Anna-Volhart/anna-volhart.github.io/pulls" href="/Anna-Volhart/anna-volhart.github.io/pulls">
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="4">
+</a>    </span>
+
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /Anna-Volhart/anna-volhart.github.io/projects" href="/Anna-Volhart/anna-volhart.github.io/projects">
+          <span itemprop="name">Projects</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="5">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /Anna-Volhart/anna-volhart.github.io/actions" href="/Anna-Volhart/anna-volhart.github.io/actions">
+          <span itemprop="name">Actions</span>
+          <meta itemprop="position" content="6">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /Anna-Volhart/anna-volhart.github.io/wiki" href="/Anna-Volhart/anna-volhart.github.io/wiki">
+          <span itemprop="name">Wiki</span>
+          <meta itemprop="position" content="7">
+</a>      </span>
+
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Anna-Volhart/anna-volhart.github.io/security" href="/Anna-Volhart/anna-volhart.github.io/security">
+        <span itemprop="name">Security</span>
+        <meta itemprop="position" content="8">
+</a>
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /Anna-Volhart/anna-volhart.github.io/pulse" href="/Anna-Volhart/anna-volhart.github.io/pulse">
+        Pulse
+</a>
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /Anna-Volhart/anna-volhart.github.io/community" href="/Anna-Volhart/anna-volhart.github.io/community">
+          Community
+</a>      </span>
+
+  </nav>
+</div>
+
+
+  </div>
+
+  
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+<div class="container-lg clearfix new-discussion-timeline  p-responsive">
+  <div class="repository-content ">
+
+    
+    
+
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Anna-Volhart/anna-volhart.github.io/blob/b078d47333549ee59b7f863dd391938006e489e8/assets/css/style.css">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v22:5737d70c2131c9293634dcca0cc3ef36 -->
+    
+
+    <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
+      <span class="d-flex flex-justify-between width-full width-md-auto">
+        
+<details class="details-reset details-overlay branch-select-menu " id="branch-select-menu">
+  <summary class="btn css-truncate btn-sm"
+           data-hotkey="w"
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target" data-menu-button>master</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/Anna-Volhart/anna-volhart.github.io/refs/master/assets/css/style.css?source_action=show&amp;source_controller=blob" preload>
+    <div class="SelectMenu-modal">
+      <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
+        <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+      </include-fragment>
+    </div>
+  </details-menu>
+</details>
+
+        <div class="BtnGroup flex-shrink-0 d-md-none">
+          <a href="/Anna-Volhart/anna-volhart.github.io/find/master"
+                class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+                data-pjax
+                data-hotkey="t">
+            Find file
+          </a>
+          <clipboard-copy value="assets/css/style.css" class="btn btn-sm BtnGroup-item">
+            Copy path
+          </clipboard-copy>
+        </div>
+      </span>
+      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/Anna-Volhart/anna-volhart.github.io"><span>anna-volhart.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Anna-Volhart/anna-volhart.github.io/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Anna-Volhart/anna-volhart.github.io/tree/master/assets/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">style.css</strong>
+      </h2>
+
+      <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
+        <a href="/Anna-Volhart/anna-volhart.github.io/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy value="assets/css/style.css" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+    </div>
+
+
+
+    <include-fragment src="/Anna-Volhart/anna-volhart.github.io/contributors/master/assets/css/style.css" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
+      </div>
+
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
+
+
+
+
+
+    <div class="Box mt-3 position-relative
+      ">
+      
+<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
+  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+
+      1 lines (1 sloc)
+      <span class="file-info-divider"></span>
+    61.6 KB
+  </div>
+
+  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Anna-Volhart/anna-volhart.github.io/raw/master/assets/css/style.css">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Anna-Volhart/anna-volhart.github.io/blame/master/assets/css/style.css">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Anna-Volhart/anna-volhart.github.io/commits/master/assets/css/style.css">History</a>
+    </div>
+
+
+    <div>
+          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
+             data-platforms="windows,mac"
+             href="https://desktop.github.com"
+             aria-label="Open this file in GitHub Desktop"
+             data-ga-click="Repository, open with desktop">
+              <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
+          </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Anna-Volhart/anna-volhart.github.io/edit/master/assets/css/style.css" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IOxAAePPzV/AuAErZBQe636pwF2xYYpuPbBu/cToua8vkrv8ybOAscjhHt8GLFMi26oHkXqmbtd7t+89reWsmQ==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
+            </button>
+</form>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Anna-Volhart/anna-volhart.github.io/delete/master/assets/css/style.css" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nXSv8gCqZYdkNDCuw3/Yww/SU0Z7/eedByGFdQsOTMbzC5i7uDJgD1IBKiX1YbzEizaQy00JllZqv7VReApheg==" />
+            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+              aria-label="Delete this file" data-disable-with>
+              <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
+            </button>
+</form>    </div>
+  </div>
+</div>
+
+
+
+      
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">@charset &quot;UTF-8&quot;;*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}article,aside,footer,header,hgroup,main,nav,section{display:block}li{list-style:none}img{height:auto;max-width:100%;vertical-align:top}button,input,select,textarea{font:inherit}address{font-style:normal}.facebook{background:#3b5998}.twitter{background:#55acee}.gplus{background:#dd4b39}.instagram{background:#405de6}.vimeo{background:#1ab7ea}.pinterest{background:#bd081c}.youtube{background:#cd201f}.linkedin{background:#0077b5}.buffer{background:#222}.mix{background:#fd8235}.whatsapp{background:#25d366}::-moz-selection{background:#de6b48;color:#fff}::selection{background:#de6b48;color:#fff}html{font-smooth:always;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;scroll-behavior:smooth}html{font-size:1rem}@media screen and (min-width:20rem){html{font-size:calc(1rem + .1 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){html{font-size:1.1rem}}html.no-scroll{overflow:hidden;position:fixed}body{background:#f7f5ea;color:#4a4a4f;font-weight:400;letter-spacing:0;line-height:1.7;-ms-scroll-chaining:none;overscroll-behavior:none}a{color:#de6b48;text-decoration:none;-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}a:hover{color:#2c2a29}a:active{color:#2c2a29}a:focus{color:#2c2a29}.invert{color:#2c2a29;text-decoration:none;-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}.invert:hover{color:#de6b48}.invert:active{color:#de6b48}.invert:focus{color:#de6b48}dl,ol,p,ul{margin-top:calc(1.7rem + .5vw)}blockquote,figure,hr{margin-top:calc(2.26667rem + .5vw);margin-bottom:calc(2.26667rem + .25vw)}pre,table{margin-top:calc(1.7rem + .5vw);margin-bottom:calc(2.26667rem + .5vw)}h1,h2,h3,h4,h5,h6{color:#2c2a29;font-weight:600;line-height:1.2;margin-top:calc(2.26667rem + .5vw);text-transform:none}.h1,h1{font-size:1.60181rem}@media screen and (min-width:20rem){.h1,h1{font-size:calc(1.60181rem + 2.05143 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h1,h1{font-size:3.65324rem}}.h2,h2{font-size:1.26562rem}@media screen and (min-width:20rem){.h2,h2{font-size:calc(1.26562rem + 1.01507 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h2,h2{font-size:2.2807rem}}.h3,h3{font-size:1.125rem}@media screen and (min-width:20rem){.h3,h3{font-size:calc(1.125rem + .47681 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h3,h3{font-size:1.60181rem}}.h4,h4{font-size:1rem}@media screen and (min-width:20rem){.h4,h4{font-size:calc(1rem + .42383 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h4,h4{font-size:1.42383rem}}.h5,h5{font-size:1rem}@media screen and (min-width:20rem){.h5,h5{font-size:calc(1rem + .26562 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h5,h5{font-size:1.26562rem}}.h6,h6{font-size:1rem}@media screen and (min-width:20rem){.h6,h6{font-size:calc(1rem + .125 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.h6,h6{font-size:1.125rem}}h2+p,h3+p,h4+p,h5+p,h6+p{margin-top:calc(.56667rem + .25vw)}b,strong{font-weight:600}blockquote{padding:3.4rem 0 2.26667rem;position:relative;text-align:center}blockquote{font-size:1.125rem}@media screen and (min-width:20rem){blockquote{font-size:calc(1.125rem + .14062 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){blockquote{font-size:1.26562rem}}@media all and (min-width:37.5em){blockquote{padding:3.96667rem 2rem 2.26667rem}}blockquote::before{color:#de6b48;content:&quot;“&quot;;font:normal 380%/.9 Georgia,Times,Times New Roman,serif;top:.56667rem;position:absolute;left:50%;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0)}blockquote&gt;:nth-child(1){margin-top:0}ol,ul{margin-left:2rem}ol&gt;li,ul&gt;li{list-style:inherit;padding:0 0 .56667rem .56667rem}ol ol,ol ul,ul ol,ul ul{margin-bottom:calc(.56667rem + .5vw);margin-top:calc(.56667rem + .5vw)}dl dt{font-weight:800}pre{background-color:#f7f8fb;font-size:.88889rem;padding:1.7rem;white-space:pre-wrap;word-wrap:break-word}pre&gt;code{color:#4a4a4f;display:inline-block}code{background-color:#f7f8fb;color:#2c2a29;font-family:Consolas,Monaco,&quot;Andale Mono&quot;,&quot;Ubuntu Mono&quot;,monospace;font-size:.8888em}table{border:1px solid #e1e1e1;border-collapse:collapse;border-spacing:0;vertical-align:top;text-align:left;width:100%}table th{font-weight:600;padding:.70833rem 1.13333rem}table td{border-top:1px solid #e1e1e1;padding:.70833rem 1.13333rem}.table-striped tr:nth-child(2n){background:#f7f8fb}.table-bordered td,.table-bordered th{border:1px solid #e1e1e1}.table-title th{background:#f7f8fb}figcaption{color:#4a4a4f;font-weight:400;font-size:.79012rem;margin-top:1.13333rem}kbd{background:#2a2734;border-radius:2px;color:#fff;font-family:Consolas,Monaco,&quot;Andale Mono&quot;,&quot;Ubuntu Mono&quot;,monospace;font-size:.8888em;padding:.14167rem .425rem}sub,sup{font-size:65%}small{font-size:.79012rem}hr{background:0 0;border:none;height:auto;line-height:1;max-width:none;text-align:center}hr::before{content:&quot;\00b7 \00b7 \00b7&quot;;color:#2c2a29;font-size:1.42383rem;font-weight:800;letter-spacing:1.26562rem;padding-left:1.26562rem}.btn,[type=button],[type=submit],button{background:#de6b48;border:1px solid #de6b48;border-radius:2px;-webkit-box-shadow:0 4px 6px rgba(0,0,0,.1),0 1px 1px rgba(0,0,0,.08);box-shadow:0 4px 6px rgba(0,0,0,.1),0 1px 1px rgba(0,0,0,.08);color:#fff;cursor:pointer;display:inline-block;font-family:inherit;font-size:.88889rem;font-weight:400;padding:.51rem 2.26667rem;vertical-align:middle;text-align:center;-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;overflow:hidden;will-change:transform}@media all and (max-width:19.9375em){.btn,[type=button],[type=submit],button{width:100%}}@media all and (max-width:37.4375em){.btn,[type=button],[type=submit],button{margin-bottom:.56667rem}}.btn:active,.btn:focus,.btn:hover,:active[type=button],:active[type=submit],:focus[type=button],:focus[type=submit],:hover[type=button],:hover[type=submit],button:active,button:focus,button:hover{-webkit-box-shadow:0 7px 14px rgba(0,0,0,.1),0 3px 6px rgba(0,0,0,.08);box-shadow:0 7px 14px rgba(0,0,0,.1),0 3px 6px rgba(0,0,0,.08);color:#fff;-webkit-transform:translateY(-2px);-ms-transform:translateY(-2px);transform:translateY(-2px);text-decoration:none!important}@media all and (min-width:20em){.btn+.btn,.btn+[type=button],.btn+[type=submit],.btn+button,[type=button]+.btn,[type=button]+[type=button],[type=button]+[type=submit],[type=button]+button,[type=submit]+.btn,[type=submit]+[type=button],[type=submit]+[type=submit],[type=submit]+button,button+.btn,button+[type=button],button+[type=submit],button+button{margin-left:.56667rem}}.btn--white{background:#fff!important;border-color:#fff!important;color:#4a4a4f!important}.btn--yellow{background:#ffc439!important;border-color:#ffc439!important;color:#fff!important}.btn--green{background:#83b692!important;border-color:#83b692!important;color:#fff!important}.btn--dark{background:#6c6c6f!important;border-color:#6c6c6f!important;color:#fff!important}.btn--outline{background:0 0!important;border:1px solid #6c6c6f!important;-webkit-box-shadow:none;box-shadow:none;color:#4a4a4f}.btn--outline:active,.btn--outline:focus,.btn--outline:hover{background:0 0!important;-webkit-box-shadow:none;box-shadow:none;color:#4a4a4f}.btn:disabled,:disabled[type=button],:disabled[type=submit],button:disabled{background-color:#f4f4f4;border-color:#cacaca;color:#807f7f;cursor:not-allowed}.btn&gt;svg,[type=button]&gt;svg,[type=submit]&gt;svg,button&gt;svg{vertical-align:middle}[type=button],[type=submit],button{-webkit-appearance:none;-moz-appearance:none}::-webkit-search-cancel-button{-webkit-appearance:none}fieldset{border:1px solid #d5d4d4;margin:0 0 1.7rem;padding:1.7rem}fieldset&gt;legend{margin-left:-1rem;padding:0 1rem}legend{font-weight:800}label{font-weight:600;margin:0 1.13333rem .85rem 0}option{font-weight:400}[type=email],[type=number],[type=search],[type=tel],[type=text],[type=url],select,textarea{background-color:#fff;border:1px solid #d5d4d4;border-radius:0;font-size:.88889rem;outline:0;padding:.56667rem .85rem;width:100%;-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;-webkit-appearance:none;-moz-appearance:none}@media all and (min-width:20em){[type=email],[type=number],[type=search],[type=tel],[type=text],[type=url],select,textarea{width:auto}}[type=email]:focus,[type=number]:focus,[type=search]:focus,[type=tel]:focus,[type=text]:focus,[type=url]:focus,select:focus,textarea:focus{border-color:#de6b48}input[type=checkbox],input[type=radio]{opacity:0;position:absolute}input[type=checkbox]+label,input[type=radio]+label{position:relative;margin-left:-1px;cursor:pointer;padding:0}input[type=checkbox]+label:before,input[type=radio]+label:before{background-color:#fff;border:1px solid #d5d4d4;border-radius:2px;content:&#39;&#39;;display:inline-block;height:1.41667rem;line-height:1.41667rem;margin-right:.85rem;vertical-align:middle;text-align:center;width:1.41667rem}input[type=checkbox]:checked+label:before,input[type=radio]:checked+label:before{content:&quot;&quot;;background-image:url(&quot;data:image/svg+xml;charset=UTF-8,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 11 8&#39;%3e%3cpolygon points=&#39;9.53 0 4.4 5.09 1.47 2.18 0 3.64 2.93 6.54 4.4 8 5.87 6.54 11 1.46 9.53 0&#39; fill=&#39;%23DE6B48&#39;/%3e%3c/svg%3e&quot;);background-repeat:no-repeat;background-size:11px 8px;background-position:50% 50%;border-color:#de6b48}select{max-width:100%;width:auto;position:relative}select:not([multiple]){background:url(&#39;data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 6 6&quot;&gt;&lt;polygon points=&quot;3 6 3 6 0 0 6 0 3 6&quot; fill=&quot;%238a8b8c&quot;/&gt;&lt;/svg&gt;&#39;) no-repeat 90% 50%;background-size:8px;padding-right:3.4rem}select[multiple]{padding:1.7rem;width:100%}select[multiple]:hover{border-color:#d5d4d4}select[multiple]:focus{border-color:#de6b48}select[multiple]:focus option:checked{background:#de6b48 -webkit-gradient(linear,left bottom,left top,from(#de6b48),to(#de6b48));background:#de6b48 -webkit-linear-gradient(bottom,#de6b48 0,#de6b48 100%);background:#de6b48 -o-linear-gradient(bottom,#de6b48 0,#de6b48 100%);background:#de6b48 linear-gradient(0deg,#de6b48 0,#de6b48 100%)}select[multiple]:disabled{background-color:#f4f4f4;cursor:not-allowed}select[multiple]:disabled:hover{border-color:#d5d4d4}textarea{display:block;overflow:auto;resize:vertical;max-width:100%}.header{background:0 0;padding:0 8vw;position:relative;top:0;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:100%;z-index:999}@media all and (min-width:56.25em){.header{position:absolute}}.header&gt;div{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;height:5.66667rem;opacity:1}@media all and (min-width:56.25em){.header&gt;div{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}}.header--narrow&gt;div{left:0;right:0;margin:0 auto;max-width:63rem}.header--flat-no-hero{background:#83b692}.header.is-visible{background:#83b692;border:none;-webkit-box-shadow:0 0 6px rgba(0,0,0,.2);box-shadow:0 0 6px rgba(0,0,0,.2);opacity:1;position:fixed;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);-webkit-transition:height .3s,background .4s,opacity .3s,-webkit-transform .3s;transition:height .3s,background .4s,opacity .3s,-webkit-transform .3s;-o-transition:transform .3s,height .3s,background .4s,opacity .3s;transition:transform .3s,height .3s,background .4s,opacity .3s;transition:transform .3s,height .3s,background .4s,opacity .3s,-webkit-transform .3s;width:100%}@media all and (min-width:56.25em){.header.is-hidden{opacity:0;-webkit-transform:translate(0,-86px);-ms-transform:translate(0,-86px);transform:translate(0,-86px);-webkit-transition:background .3s,color .3s,opacity 0 .3s,-webkit-transform .2s;transition:background .3s,color .3s,opacity 0 .3s,-webkit-transform .2s;-o-transition:transform .2s,background .3s,color .3s,opacity 0 .3s;transition:transform .2s,background .3s,color .3s,opacity 0 .3s;transition:transform .2s,background .3s,color .3s,opacity 0 .3s,-webkit-transform .2s}}.logo{color:#fff!important;font-size:1.42383rem;font-weight:600;margin-right:auto;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1;position:relative;z-index:999}.logo&gt;img{max-height:2rem;max-width:5rem}.search{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}@media all and (min-width:56.25em){.search{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}}.search__btn{border:none;background:0 0!important;-webkit-box-shadow:none!important;box-shadow:none!important;margin-left:.85rem;opacity:.7;padding:0;vertical-align:top;width:auto}.search__btn:focus,.search__btn:hover{opacity:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.search__btn&gt;svg{fill:#fff;height:19px;width:20px}.search__form{-ms-flex-preferred-size:90%;flex-basis:90%}.search__input{border:none;display:none;opacity:0;margin:0!important;padding:0;width:100%}.search__input{font-size:1.60181rem}@media screen and (min-width:20rem){.search__input{font-size:calc(1.60181rem + .42548 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.search__input{font-size:2.02729rem}}.search__close{background:0 0!important;-webkit-box-shadow:none!important;box-shadow:none!important;border:none;color:transparent;cursor:pointer;margin:0!important;opacity:0;padding:0;height:2rem;width:2rem;position:relative;text-indent:-999rem}.search__close:after,.search__close:before{background-color:#888;content:&#39;&#39;;left:1rem;height:2rem;opacity:1;position:absolute;width:1px;top:0;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}.search__close:after{-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg)}.search__close:hover{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.search__close:hover:after,.search__close:hover:before{background-color:#de6b48}.search__overlay{background-color:#fff;-webkit-box-shadow:0 0 6px rgba(0,0,0,.2);box-shadow:0 0 6px rgba(0,0,0,.2);left:0;opacity:0;position:fixed;-webkit-transition:all .48s;-o-transition:all .48s;transition:all .48s;-webkit-transform:translate(0,-100%);-ms-transform:translate(0,-100%);transform:translate(0,-100%);top:0;visibility:hidden;width:100%}.search__overlay&gt;div{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;height:5.66667rem;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin:0 8vw}.search__overlay--narrow&gt;div{-webkit-box-sizing:content-box;box-sizing:content-box;max-width:63rem;margin:0 auto;padding:0 8vw}.search__overlay.expanded{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);opacity:1;z-index:100000000;display:block;visibility:visible}.search__overlay.expanded .search__input{-webkit-animation:slideininput .24s .36s forwards;animation:slideininput .24s .36s forwards;display:block}@-webkit-keyframes slideininput{60%{opacity:0}100%{opacity:1}}@keyframes slideininput{60%{opacity:0}100%{opacity:1}}.search__overlay.expanded .search__close{-webkit-animation:slideinclose .24s .36s forwards;animation:slideinclose .24s .36s forwards}@-webkit-keyframes slideinclose{60%{opacity:0}100%{opacity:1}}@keyframes slideinclose{60%{opacity:0}100%{opacity:1}}.navbar{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.navbar .navbar__menu{display:-webkit-box;display:-ms-flexbox;display:flex;list-style:none;margin:0;padding:0}@media all and (max-width:56.1875em){.navbar .navbar__menu{display:none}}.navbar .navbar__menu li{display:block;line-height:2.6;font-weight:500;padding:0;position:relative;width:auto}.navbar .navbar__menu li a,.navbar .navbar__menu li span[aria-haspopup=true]{color:#fff;display:block;padding:0 .85rem;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out}.navbar .navbar__menu li a:active,.navbar .navbar__menu li a:focus,.navbar .navbar__menu li a:hover,.navbar .navbar__menu li span[aria-haspopup=true]:active,.navbar .navbar__menu li span[aria-haspopup=true]:focus,.navbar .navbar__menu li span[aria-haspopup=true]:hover{color:#fff}.navbar .navbar__menu li span{color:#fff;cursor:default;display:block;padding:0 .85rem}.navbar .navbar__menu&gt;li:hover&gt;a,.navbar .navbar__menu&gt;li:hover&gt;span[aria-haspopup=true]{border-radius:2px;background:rgba(255,255,255,.12);color:#fff}.navbar .has-submenu:active&gt;.navbar__submenu,.navbar .has-submenu:focus&gt;.navbar__submenu,.navbar .has-submenu:hover&gt;.navbar__submenu{left:0;opacity:1;-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);visibility:visible}.navbar .has-submenu:active&gt;.navbar__submenu.is-right-submenu,.navbar .has-submenu:focus&gt;.navbar__submenu.is-right-submenu,.navbar .has-submenu:hover&gt;.navbar__submenu.is-right-submenu{left:auto;right:0;-webkit-transform-origin:right top;-ms-transform-origin:right top;transform-origin:right top}.navbar .has-submenu .has-submenu:active&gt;.navbar__submenu,.navbar .has-submenu .has-submenu:focus&gt;.navbar__submenu,.navbar .has-submenu .has-submenu:hover&gt;.navbar__submenu{top:0}.navbar .has-submenu .has-submenu:active&gt;.navbar__submenu.is-right-submenu,.navbar .has-submenu .has-submenu:focus&gt;.navbar__submenu.is-right-submenu,.navbar .has-submenu .has-submenu:hover&gt;.navbar__submenu.is-right-submenu{top:0}.navbar .navbar__submenu{background:#fff;border-radius:2px;-webkit-box-shadow:0 0 6px rgba(44,42,41,.15);box-shadow:0 0 6px rgba(44,42,41,.15);left:-9999px;list-style-type:none;margin:0;padding:20px 0;position:absolute;white-space:nowrap;z-index:1;opacity:0;-webkit-transform:scale(.8);-ms-transform:scale(.8);transform:scale(.8);-webkit-transform-origin:0 top;-ms-transform-origin:0 top;transform-origin:0 top;-webkit-transition:opacity .15s,-webkit-transform .3s cubic-bezier(.275,1.375,.8,1);transition:opacity .15s,-webkit-transform .3s cubic-bezier(.275,1.375,.8,1);-o-transition:opacity .15s,transform .3s cubic-bezier(.275,1.375,.8,1);transition:opacity .15s,transform .3s cubic-bezier(.275,1.375,.8,1);transition:opacity .15s,transform .3s cubic-bezier(.275,1.375,.8,1),-webkit-transform .3s cubic-bezier(.275,1.375,.8,1)}.navbar .navbar__submenu__submenu{z-index:2}.navbar .navbar__submenu li{font-size:.88889rem;font-weight:400;line-height:1.7;margin:0 1.13333rem}.navbar .navbar__submenu li a,.navbar .navbar__submenu li span[aria-haspopup=true]{color:#4a4a4f!important;border-radius:3px;line-height:1.4;padding:.56667rem 1.13333rem}.navbar .navbar__submenu li a:active,.navbar .navbar__submenu li a:focus,.navbar .navbar__submenu li a:hover,.navbar .navbar__submenu li span[aria-haspopup=true]:active,.navbar .navbar__submenu li span[aria-haspopup=true]:focus,.navbar .navbar__submenu li span[aria-haspopup=true]:hover{background:#f7f5ea;color:#4a4a4f!important}.navbar .navbar__submenu li span{color:#4a4a4f!important;line-height:1.4;padding:.56667rem 1.13333rem}.navbar .navbar__submenu li:hover&gt;a,.navbar .navbar__submenu li:hover&gt;span[aria-haspopup=true]{color:#4a4a4f!important}.navbar .navbar__toggle{background:rgba(0,0,0,.15);-webkit-box-shadow:none;box-shadow:none;border:none;border-radius:2px;cursor:pointer;display:block;line-height:1;margin:0;overflow:visible;padding:1rem;position:relative;right:-1rem;text-transform:none;z-index:2004}@media all and (min-width:56.25em){.navbar .navbar__toggle{display:none}}.navbar .navbar__toggle:focus,.navbar .navbar__toggle:hover{-webkit-box-shadow:none;box-shadow:none;outline:0;-webkit-transform:none;-ms-transform:none;transform:none}.navbar .navbar__toggle-box{width:24px;height:14px;display:inline-block;position:relative}.navbar .navbar__toggle-inner{display:block;top:50%;text-indent:-9999999em}.navbar .navbar__toggle-inner::before{content:&quot;&quot;;display:block;top:-6px}.navbar .navbar__toggle-inner::after{content:&quot;&quot;;display:block;bottom:-6px}.navbar .navbar__toggle-inner,.navbar .navbar__toggle-inner::after,.navbar .navbar__toggle-inner::before{width:22px;height:2px;background-color:#fff;position:absolute;-webkit-transition:opacity .14s ease-out,-webkit-transform;transition:opacity .14s ease-out,-webkit-transform;-o-transition:transform,opacity .14s ease-out;transition:transform,opacity .14s ease-out;transition:transform,opacity .14s ease-out,-webkit-transform}.navbar .navbar__toggle-inner{-webkit-transition-duration:75ms;-o-transition-duration:75ms;transition-duration:75ms;-webkit-transition-timing-function:cubic-bezier(.55,.055,.675,.19);-o-transition-timing-function:cubic-bezier(.55,.055,.675,.19);transition-timing-function:cubic-bezier(.55,.055,.675,.19)}.navbar .navbar__toggle-inner::before{-webkit-transition:top 75ms ease .12s,opacity 75ms ease;-o-transition:top 75ms ease .12s,opacity 75ms ease;transition:top 75ms ease .12s,opacity 75ms ease}.navbar .navbar__toggle-inner::after{-webkit-transition:bottom 75ms ease .12s,-webkit-transform 75ms cubic-bezier(.55,.055,.675,.19);transition:bottom 75ms ease .12s,-webkit-transform 75ms cubic-bezier(.55,.055,.675,.19);-o-transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19);transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19);transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19),-webkit-transform 75ms cubic-bezier(.55,.055,.675,.19)}.navbar .navbar__toggle.is-active .navbar__toggle-inner{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);-webkit-transition-delay:.12s;-o-transition-delay:.12s;transition-delay:.12s;-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);-o-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}.navbar .navbar__toggle.is-active .navbar__toggle-inner::before{top:0;opacity:0;-webkit-transition:top 75ms ease,opacity 75ms ease .12s;-o-transition:top 75ms ease,opacity 75ms ease .12s;transition:top 75ms ease,opacity 75ms ease .12s}.navbar .navbar__toggle.is-active .navbar__toggle-inner::after{bottom:0;-webkit-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);-webkit-transition:bottom 75ms ease,-webkit-transform 75ms cubic-bezier(.215,.61,.355,1) .12s;transition:bottom 75ms ease,-webkit-transform 75ms cubic-bezier(.215,.61,.355,1) .12s;-o-transition:bottom 75ms ease,transform 75ms cubic-bezier(.215,.61,.355,1) .12s;transition:bottom 75ms ease,transform 75ms cubic-bezier(.215,.61,.355,1) .12s;transition:bottom 75ms ease,transform 75ms cubic-bezier(.215,.61,.355,1) .12s,-webkit-transform 75ms cubic-bezier(.215,.61,.355,1) .12s}.navbar_mobile_overlay{background:#83b692;height:calc(100vh - 5.66667rem);left:0;opacity:1;overflow:auto;pointer-events:auto;position:fixed;top:5.66667rem;-webkit-transition:all .3s cubic-bezier(0,0,.3,1);-o-transition:all .3s cubic-bezier(0,0,.3,1);transition:all .3s cubic-bezier(0,0,.3,1);width:100%;z-index:1001}.navbar_mobile_overlay.is-hidden{opacity:0;pointer-events:none}.navbar_mobile_overlay .navbar__menu{margin:24px}.navbar_mobile_overlay .navbar__menu li{line-height:2.6;list-style:none;margin:0;padding:0;text-align:center}.navbar_mobile_overlay .navbar__menu li a,.navbar_mobile_overlay .navbar__menu li span{color:#fff;display:block;padding:.56667rem;position:relative}.navbar_mobile_overlay .navbar__menu li a:active,.navbar_mobile_overlay .navbar__menu li a:focus,.navbar_mobile_overlay .navbar__menu li a:hover,.navbar_mobile_overlay .navbar__menu li span:active,.navbar_mobile_overlay .navbar__menu li span:focus,.navbar_mobile_overlay .navbar__menu li span:hover{color:#fff}.navbar_mobile_overlay .navbar__menu li a[aria-haspopup=true]::after,.navbar_mobile_overlay .navbar__menu li span[aria-haspopup=true]::after{content:&quot;&quot;;display:inline-block;width:0;height:0;border-style:solid;border-width:5px 5px 0 5px;border-color:#fff transparent transparent transparent;left:.56667rem;position:relative;vertical-align:middle}.navbar_mobile_overlay .navbar__submenu{margin:0;padding:0}.navbar_mobile_overlay .navbar__submenu_wrapper{height:0;opacity:0;overflow:hidden;-webkit-transition:all .3s cubic-bezier(.275,1.375,.8,1);-o-transition:all .3s cubic-bezier(.275,1.375,.8,1);transition:all .3s cubic-bezier(.275,1.375,.8,1)}.navbar_mobile_overlay .navbar__submenu_wrapper.is-active{height:auto;opacity:1}.navbar_mobile_sidebar{background:#83b692;-webkit-box-shadow:0 0 5px rgba(0,0,0,.25);box-shadow:0 0 5px rgba(0,0,0,.25);height:100vh;left:0;max-width:400px;overflow:auto;position:fixed;top:0;-webkit-transition:all .3s cubic-bezier(0,0,.3,1);-o-transition:all .3s cubic-bezier(0,0,.3,1);transition:all .3s cubic-bezier(0,0,.3,1);width:80%;z-index:1001}.navbar_mobile_sidebar.is-hidden{left:-400px}.navbar_mobile_sidebar .navbar__menu{margin:24px}.navbar_mobile_sidebar .navbar__menu li{font-size:16px;list-style:none;line-height:1.3;margin:0;padding:0}.navbar_mobile_sidebar .navbar__menu li a,.navbar_mobile_sidebar .navbar__menu li span{color:#fff;display:block;padding:10px 20px 10px 0;position:relative}.navbar_mobile_sidebar .navbar__menu li a:active,.navbar_mobile_sidebar .navbar__menu li a:focus,.navbar_mobile_sidebar .navbar__menu li a:hover,.navbar_mobile_sidebar .navbar__menu li span:active,.navbar_mobile_sidebar .navbar__menu li span:focus,.navbar_mobile_sidebar .navbar__menu li span:hover{color:#fff}.navbar_mobile_sidebar .navbar__menu li a[aria-haspopup=true]::after,.navbar_mobile_sidebar .navbar__menu li span[aria-haspopup=true]::after{content:&quot;&quot;;width:0;height:0;border-style:solid;border-width:5px 5px 0 5px;border-color:#fff transparent transparent transparent;right:0;top:18px;position:absolute}.navbar_mobile_sidebar .navbar__submenu{margin:0 0 0 24px;padding:0}.navbar_mobile_sidebar .navbar__submenu_wrapper{height:0;opacity:0;overflow:hidden;-webkit-transition:all .3s cubic-bezier(.275,1.375,.8,1);-o-transition:all .3s cubic-bezier(.275,1.375,.8,1);transition:all .3s cubic-bezier(.275,1.375,.8,1)}.navbar_mobile_sidebar .navbar__submenu_wrapper.is-active{height:auto;opacity:1}.navbar_mobile_sidebar__overlay{background:rgba(0,0,0,.5);height:100%;opacity:1;pointer-events:auto;position:fixed;top:0;-webkit-transition:all .3s cubic-bezier(0,0,.3,1);-o-transition:all .3s cubic-bezier(0,0,.3,1);transition:all .3s cubic-bezier(0,0,.3,1);width:100%;z-index:1000}.navbar_mobile_sidebar__overlay.is-hidden{opacity:0;pointer-events:none}.wrapper{margin:0 auto;max-width:63rem;width:100%}@media all and (max-width:56.1875em){.wrapper{padding-left:8vw;padding-right:8vw}}@media all and (min-width:56.25em){.wrapper--full{max-width:84vw!important}}.hero{background:#83b692;margin-top:-5.66667rem;overflow:hidden;position:relative;height:100vh;z-index:1}@media all and (min-width:37.5em){.hero{height:51rem}}@media all and (min-width:56.25em){.hero{margin-top:0}}.hero--flat{height:auto}.hero__wrapper{height:100vh;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;overflow:hidden;padding-bottom:6rem;position:relative;text-align:center}@media all and (min-width:37.5em){.hero__wrapper{height:51rem}}.hero__wrapper--flat{padding-bottom:0}.hero__inner{margin:0 auto;max-width:63rem;position:relative;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:calc(100% - 16vw);z-index:2}.hero__inner--center{text-align:center}.hero__inner--center p{margin-left:auto;margin-right:auto;max-width:41rem}.hero__inner--left{text-align:left}.hero__inner--left p{margin-left:0;max-width:41rem}.hero__inner--right{text-align:right}.hero__inner--right p{margin-left:auto;margin-right:0;max-width:41rem}.hero__inner .post__meta,.hero__inner&gt;*{color:#fff}.hero__inner a{color:#fff;text-decoration:none;-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}.hero__inner a:hover{color:#fff}.hero__inner a:active{color:#fff}.hero__inner a:focus{color:#fff}.hero__inner a:hover{text-decoration:underline;-webkit-text-decoration-skip:ink;text-decoration-skip:ink}.hero__title{color:#fff;margin-top:1.7rem;margin-bottom:1.7rem}.hero__button-wrap{margin-top:calc(1.98333rem + .5vw)}.hero__image{position:absolute;height:100%;top:0;left:0;margin:0;width:100vw}.hero__image--overlay:after{content:&quot;&quot;;display:block;opacity:1;left:0;height:100%;width:100%;position:absolute;top:0;z-index:1}.hero__image&gt;img{display:block;height:inherit;-o-object-fit:cover;object-fit:cover;width:inherit}.hero__image&gt;figcaption{color:#fff;position:absolute;bottom:1.2rem;right:1.2rem;z-index:2}.tns-nav{height:0;bottom:10rem;position:absolute;left:50%;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0);z-index:3}.tns-nav&gt;button{background:rgba(255,255,255,.5);border:0;border-radius:50%;padding:0;height:8px;width:8px}.tns-nav&gt;button:hover{-webkit-transform:none;-ms-transform:none;transform:none}.tns-nav-active{background:#fff!important}.hero+.main{margin-top:0}.main{position:relative}@media all and (min-width:56.25em){.main{margin:calc(5.66667rem + 6rem) 0 -6rem;padding:0 8vw}}.main::before{background:#83b692;content:&quot;&quot;;display:block;height:calc(5.66667rem + 6rem);min-height:calc(5.66667rem + 6rem);position:absolute;top:-5.66667rem;left:0;width:100%}.main--flat{margin-bottom:0}@media all and (min-width:56.25em){.main--flat{margin-top:calc(8.5rem + 1vw);padding:0 8vw}}.main--flat::before{content:none}.main--with-pagination{margin-bottom:3.4rem}.page{background:#fff;border-radius:3px;-webkit-box-shadow:0 0 30px rgba(0,0,0,.08);box-shadow:0 0 30px rgba(0,0,0,.08);overflow:hidden;padding:2.83333rem 8vw;position:relative;z-index:2}@media all and (max-width:56.1875em){.page{margin-left:-8vw;margin-right:-8vw}}@media all and (min-width:56.25em){.page{margin-top:-6rem;padding:calc(2.83333rem + 1vw) 6rem}}.page--flat{background:0 0;-webkit-box-shadow:none;box-shadow:none}@media all and (min-width:56.25em){.page--flat{margin-top:0!important;margin-bottom:0;padding-left:0;padding-right:0}}@media all and (min-width:56.25em){.page--flat-no-hero{padding-top:0}}.page__header{text-align:center}.page__header&gt;:nth-child(1){margin-top:0}.page__header+.page__grid{margin-top:calc(1.41667rem + .5vw)}.page__header&gt;h1{text-transform:uppercase}.page__header&gt;h1 span{margin-left:.28333rem}.page__header&gt;p{font-size:.88889rem}.page__header.divider::after{margin-top:calc(1.7rem + .25vw)}.page__item&gt;div{margin:0 auto;max-width:41rem;padding-bottom:calc(.56667rem + .25vw);position:relative;width:100%}.page__item:nth-child(1) h2{margin-top:0}.page__item--center{text-align:center}.page__item--right{text-align:right}.page__item-title{margin-bottom:.85rem}.page__item-image{border-radius:0;margin:calc(1.7rem + .5vw) 0 calc(2.26667rem + .5vw);overflow:hidden;text-align:center;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out}.page__item-image--wide{margin:calc(1.7rem + .5vw) 50% calc(2.26667rem + .5vw);max-width:63rem;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0);width:100vw}@media all and (min-width:56.25em){.page__item-image--wide{width:84vw}}.page__item-image__wrap{background:#f7f8fb;display:block;height:0;margin:0;position:relative;width:100%}.page__item-image__wrap&gt;img{display:block;height:100%;left:0;position:absolute;top:0;width:100%}.page__item-image__wrap&gt;figcaption{bottom:1.2rem;color:#fff;display:inline-block;font-size:.79012rem;line-height:1;right:1.2rem;position:absolute;z-index:2}.page__item-image__wrap--link::after{background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.4)),to(rgba(0,0,0,0)));background:-webkit-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:-o-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);content:&quot;&quot;;display:block;opacity:0;left:0;height:100%;position:absolute;top:0;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out;width:100%}.page__item-image__wrap--link:hover::after{opacity:1}.page__item-image&gt;img{width:100%}.page__item:last-child&gt;div::after{content:none}.page__item--hero--with-grid{text-align:center}.page__item--hero__image{margin-top:calc(-2.26667rem - 1vw)}.page__item--hero__btn{margin-top:calc(1.98333rem + .25vw)}.page__grid{display:-ms-grid;display:grid;grid-gap:2rem 3rem}@media all and (min-width:56.25em){.page__grid{-ms-grid-columns:(1fr)[2];grid-template-columns:repeat(2,1fr)}}.page__grid h2{margin-top:0}.page__grid h2{font-size:1rem}@media screen and (min-width:20rem){.page__grid h2{font-size:calc(1rem + .26562 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.page__grid h2{font-size:1.26562rem}}.page__grid .page__item{margin:0;overflow:hidden}.page__grid .page__item-header+p{margin-top:calc(.85rem + .5vw)}.page__grid .page__item-image{margin-top:0!important}.page__grid .page__item-image--wide{margin:calc(1.41667rem + .5vw) 0;max-width:100%;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);width:100%}@media all and (min-width:56.25em){.page__grid .page__item-image--wide{width:100%}}.content{padding-bottom:calc(1.98333rem + 1vw)}.content--center{max-width:46.8rem;margin:0 auto;width:100%}.content--left{max-width:46.8rem;margin:0;width:100%}.content a:hover{text-decoration:underline;-webkit-text-decoration-skip:ink;text-decoration-skip:ink}.post__inner{margin:0 auto;max-width:41rem;padding-bottom:calc(1.7rem + .25vw);position:relative}.post__header{margin-bottom:calc(2.26667rem + .5vw)}.post__title{margin-top:0;margin-bottom:.85rem}.post__title{font-size:1.60181rem}@media screen and (min-width:20rem){.post__title{font-size:calc(1.60181rem + 1.2847 * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){.post__title{font-size:2.88651rem}}.post__meta{color:#888;font-size:.70233rem;padding:.28333rem 0 0;text-transform:uppercase}.post__meta&gt;*{margin-right:1.13333rem}.post__meta-author&gt;img{border-radius:50%;height:1.6rem;margin-right:.56667rem;vertical-align:middle;width:1.6rem}.post__image{display:inline-block}.post__image&gt;img{display:inline-block}.post__image--left{float:left;margin-right:2.26667rem;max-width:50%}.post__image--right{float:right;margin-left:2.26667rem;max-width:50%}.post__image--center{display:block;margin-left:auto;margin-right:auto;text-align:center}.post__image--full,.post__image--wide{display:block;margin:calc(1.7rem + .5vw) 50% calc(2.26667rem + .5vw);max-width:63rem;text-align:center;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0);width:100vw}@media all and (min-width:56.25em){.post__image--full,.post__image--wide{height:auto;width:84vw}}.post__image&gt;figcaption{color:#888;text-align:center}.post__entry&gt;:nth-child(1){margin-top:0}.post__entry a:active,.post__entry a:focus,.post__entry a:hover{color:#de6b48;text-decoration:underline;-webkit-text-decoration-skip:ink;text-decoration-skip:ink}.post__iframe,.post__video{position:relative;display:block;margin-top:calc(1.7rem + .5vw);margin-bottom:calc(1.7rem + .5vw);overflow:hidden;padding:0;width:100%}.post__iframe::before,.post__video::before{display:block;content:&quot;&quot;;padding-top:56.25%}.post__iframe--21by9::before,.post__video--21by9::before{padding-top:42.857143%}.post__iframe--4by3::before,.post__video--4by3::before{padding-top:75%}.post__iframe--1by1::before,.post__video--1by1::before{padding-top:100%}.post__iframe&gt;iframe,.post__video&gt;iframe{border:none;height:100%;left:0;position:absolute;top:0;bottom:0;width:100%}.post__toc ul{counter-reset:item;list-style:decimal;margin:calc(.56667rem + .25vw) 0 0 1rem}.post__toc ul li{counter-increment:item;padding:0}.post__toc ul ul{margin-top:0}.post__toc ul ul li{display:block}.post__toc ul ul li:before{content:counters(item, &quot;.&quot;) &quot;. &quot;;margin-left:-20px}.post-desc{margin-top:.85rem}.post__note{border-radius:2px;border:1px solid #e1e1e1;margin-top:calc(1.13333rem + .25vw);padding:1.7rem}@media all and (min-width:37.5em){.post__note{float:right;font-size:.88889rem;margin:calc(1.13333rem + .25vw) 0 1.13333rem 1.7rem;max-width:18.2rem;position:relative;z-index:1}}.post__note&gt;:nth-child(1){margin:0}@media all and (min-width:37.5em){.post__note--left{float:left;margin:.56667rem 1.7rem 1.13333rem 0}}.post__updated{color:#888;font-size:.79012rem;font-style:italic;margin-top:calc(.56667rem + .5vw)}.post__tag{list-style:none;margin:calc(1.7rem + .25vw) 0 0}.post__tag li{display:inline-block;margin:0 2px;padding:0}.post__tag li&gt;a{background:#f7f8fb;border-radius:1px;display:block;font-size:.79012rem;padding:.28333rem .85rem}.post__share{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;margin:calc(1.7rem + .25vw) -4px 0;text-align:center}.post__share&gt;a{display:inline-block;-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;margin:0 4px;padding:.56667rem;-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;will-change:transform}.post__share&gt;a svg{display:inline-block;fill:#fff;height:.99167rem;pointer-events:none;vertical-align:sub;width:.99167rem}.post__share&gt;a:hover{-webkit-box-shadow:0 7px 14px rgba(50,50,93,.1),0 3px 6px rgba(0,0,0,.08);box-shadow:0 7px 14px rgba(50,50,93,.1),0 3px 6px rgba(0,0,0,.08);-webkit-transform:translateY(-2px);-ms-transform:translateY(-2px);transform:translateY(-2px)}.post__bio{margin-top:calc(4.53333rem + .5vw);text-align:center}.post__bio&gt;img{border-radius:50%;display:block;height:4rem;margin:0 auto;width:4rem}.post__bio h3{margin-top:1.7rem}.post__bio p{margin:1.13333rem auto 0;width:80%}.post__nav{border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin-top:calc(3.4rem + 1vw);padding:1.7rem 0}@media all and (min-width:37.5em){.post__nav{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}}@media all and (min-width:37.5em){.post__nav__prev{-ms-flex-preferred-size:50%;flex-basis:50%;text-align:left}}@media all and (min-width:37.5em){.post__nav__next{-ms-flex-preferred-size:50%;flex-basis:50%;margin-left:auto;text-align:right}.post__nav__next .post__nav__link{-webkit-box-pack:right;-ms-flex-pack:right;justify-content:right}}@media all and (max-width:37.4375em){.post__nav__prev+.post__nav__next{margin-top:1.13333rem}}.post__nav__link{-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#4a4a4f;display:-webkit-box;display:-ms-flexbox;display:flex}.post__nav__link:hover{text-decoration:none}.post__nav__link:hover h5{-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease}.post__nav__link&gt;img{-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;will-change:transform;max-width:100px}@media all and (max-width:37.4375em){.post__nav__link&gt;img{display:none}}.post__nav__text{font-size:.6243rem;padding:0 1.13333rem;text-transform:uppercase}.post__nav__text&gt;h5{font-size:1rem;margin:.28333rem 0 0;position:relative}.post__related{margin-top:calc(3.4rem + 1vw);text-align:center}.post__related&gt;h3{margin:0}.post__related__wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:calc(2.26667rem + .5vw) -1% 0}.post__related__wrap figure{margin:0 0 2.26667rem;padding:0 1%}.post__related__wrap figure:last-child{margin:0}@media all and (min-width:30em){.post__related__wrap figure{-ms-flex-preferred-size:33.333%;flex-basis:33.333%;margin:0}}.post__related__wrap figure&gt;a{display:block;position:relative}.post__related__wrap figure&gt;a::after{background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.4)),to(rgba(0,0,0,0)));background:-webkit-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:-o-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);content:&quot;&quot;;display:block;opacity:0;left:0;height:100%;position:absolute;top:0;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out;width:100%}.post__related__wrap figure&gt;a:hover::after{opacity:1}.post__related__wrap figure&gt;a&gt;img{-o-object-fit:cover;object-fit:cover;-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;width:100%}.post__related__wrap figcaption&gt;a{display:block;font-size:.70233rem;font-weight:600;margin:1.7rem 0 1.13333rem;text-transform:uppercase}.post__related__wrap figcaption h4{margin-top:calc(1.13333rem + .5vw)}.comments{padding-top:calc(1.13333rem + .25vw);text-align:center}.comments__button{margin-top:calc(1.7rem + .25vw)}.comments__button.is-hidden{display:none}.comments__inner{margin:0 auto;max-width:41rem;text-align:left}.comments__inner--hidden{height:0;visibility:hidden}.comments__inner--hidden h3{margin:0;text-align:center}.comments__inner.is-visible{height:auto;padding-bottom:calc(1.7rem + .25vw);visibility:visible}.comments__inner.is-visible h3{margin:calc(2.26667rem + .5vw) 0 1.7rem}.author__header&gt;img{border-radius:50%;display:block;height:4rem;margin:0 auto;width:4rem}.bottom-news{background:#f3f0e2;color:#6c6c6f;padding-top:4rem;text-align:center}@media all and (min-width:56.25em){.bottom-news{margin-bottom:-6rem;padding-top:11rem}}.bottom-news p{margin:0}.bottom-news h3{margin:.28333rem 0 calc(2.26667rem + .5vw)}.bottom-news h3 a{color:#2c2a29;text-decoration:none;-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}.bottom-news h3 a:hover{color:#de6b48}.bottom-news h3 a:active{color:#de6b48}.bottom-news h3 a:focus{color:#de6b48}.bottom-news--flat{padding:5rem 0 1.13333rem}.bottom-news__wrapper{display:-ms-grid;display:grid;-ms-grid-columns:1fr;grid-template-columns:1fr;margin:0;min-height:150px}@media all and (min-width:37.5em){.bottom-news__wrapper{-ms-grid-columns:(1fr)[2];grid-template-columns:repeat(2,1fr)}}@media all and (min-width:75em){.bottom-news__wrapper{-ms-grid-columns:(1fr)[3];grid-template-columns:repeat(3,1fr)}}@media all and (min-width:100em){.bottom-news__wrapper{-ms-grid-columns:(1fr)[6];grid-template-columns:repeat(6,1fr)}}.bottom-news__wrapper li{list-style:none;padding:0;position:relative}.bottom-news__wrapper li:hover .bottom-news__meta{opacity:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.bottom-news__image{display:block;height:20rem;width:100%}.bottom-news__image::after{background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.4)),to(rgba(0,0,0,0)));background:-webkit-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:-o-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);content:&quot;&quot;;display:block;opacity:0;left:0;height:100%;position:absolute;top:0;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out;width:100%}.bottom-news__image:hover::after{opacity:1}.bottom-news__image&gt;img{display:block;height:100%;left:0;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%}.bottom-news__meta{bottom:1rem;color:#fff;display:inline-block;line-height:1;left:1.2rem;right:1.2rem;opacity:0;position:absolute;-webkit-transform:translateY(1.2rem);-ms-transform:translateY(1.2rem);transform:translateY(1.2rem);-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out;vertical-align:middle}.author-note{display:-webkit-box;display:-ms-flexbox;display:flex}.author-note&gt;img{border-radius:50%;display:inline-block;height:4rem;margin-top:calc(1.98333rem + 1vw);margin-right:1.7rem;width:4rem}.search-page__form{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}@media all and (max-width:37.4375em){.search-page__input{margin-bottom:.56667rem}}@media all and (min-width:20em){.search-page__input{-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto;margin-right:.56667rem}}.divider::after{position:relative;content:&#39;\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022\2022&#39;;color:#2c2a29;display:block;font-size:9px;letter-spacing:9px;line-height:10px;margin-top:calc(2.83333rem + .25vw);overflow:hidden;padding-left:2px;vertical-align:middle;width:20%}.divider--line::after{border-top:1px solid #e1e1e1;content:&quot;&quot;}.divider--doubleline::after{border-top:3px double #e1e1e1;content:&quot;&quot;}.divider--dottedline::after{border-top:1px dashed #e1e1e1;content:&quot;&quot;}.divider--fadingline::after{content:&quot;&quot;;border:0;height:1px;background-image:-webkit-gradient(linear,left top,right top,from(transparent),color-stop(#e1e1e1),to(transparent));background-image:-webkit-linear-gradient(left,transparent,#e1e1e1,transparent);background-image:-o-linear-gradient(left,transparent,#e1e1e1,transparent);background-image:linear-gradient(left,transparent,#e1e1e1,transparent)}.divider--wave::after{background-image:url(&quot;data:image/svg+xml;charset=UTF-8,%3c?xml version=&#39;1.0&#39; encoding=&#39;utf-8&#39;?%3e%3csvg version=&#39;1.1&#39; xmlns=&#39;http://www.w3.org/2000/svg&#39; xmlns:xlink=&#39;http://www.w3.org/1999/xlink&#39; x=&#39;0px&#39; y=&#39;0px&#39; viewBox=&#39;0 0 7 4&#39; xml:space=&#39;preserve&#39;%3e%3cpath d=&#39;M0,3h1v1H0V3z M1,3H0v1h1V3L1,3z M1,3h1V2H1V3z M2,2H1v1h1V2L2,2z M0,4h1V3H0V4z M1,3H0v1h1V3L1,3z M2,2h1V1H2V2z M3,1H2v1 h1V1L3,1z M3,0v1h1V0H3z M4,0H3v1h1V0L4,0z M4,1v1h1V1H4z M5,1H4v1h1V1L5,1z M5,2v1h1V2H5z M6,2H5v1h1V2L6,2z M6,3v1h1V3H6z M7,3H6 v1h1V3L7,3z&#39; fill=&#39;%23c5c4c2&#39; /%3e%3c/svg%3e &quot;);background-repeat:repeat-x;content:&quot;&quot;;height:4px}.divider--decorative-1::after{background-image:url(&quot;data:image/svg+xml;charset=UTF-8,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 46 2&#39;%3e%3cpath d=&#39;M25.54.86v.28h0a3.92,3.92,0,0,0-1.27.29c-.68.28-.82.57-1.27.57s-.6-.29-1.27-.57a3.62,3.62,0,0,0-1.29-.28.63.63,0,0,1-1.23,0h-.13a2.12,2.12,0,0,0-1.34.71.14.14,0,0,1-.16,0,5.44,5.44,0,0,0-1.81-.39C11.32,1.14.14,1.14.14,1.14a.14.14,0,1,1,0-.28S11.32.86,15.77.5A5.44,5.44,0,0,0,17.58.11a.14.14,0,0,1,.16,0,2,2,0,0,0,.5.42,1.89,1.89,0,0,0,.84.29h.13a.63.63,0,0,1,1.23,0A3.62,3.62,0,0,0,21.73.57C22.4.29,22.54,0,23,0s.59.29,1.27.57a3.92,3.92,0,0,0,1.27.29Zm20.32,0S34.68.86,30.23.5A5.44,5.44,0,0,1,28.42.11a.14.14,0,0,0-.16,0,2,2,0,0,1-.5.42,1.89,1.89,0,0,1-.84.29h-.13A.63.63,0,0,0,25.54,1a.63.63,0,0,0,1.25.14h.13a2.12,2.12,0,0,1,1.34.71.14.14,0,0,0,.16,0,5.44,5.44,0,0,1,1.81-.39c4.45-.36,15.63-.36,15.63-.36a.14.14,0,0,0,0-.28Z&#39; fill=&#39;%23c5c4c2&#39; /%3e%3c/svg%3e&quot;);background-repeat:no-repeat;content:&quot;&quot;;height:6px;width:138px!important}.divider--decorative-2::after{background-image:url(&quot;data:image/svg+xml;charset=UTF-8,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 76 6&#39;%3e%3cpath class=&#39;cls-1&#39; d=&#39;M50,3A2.5,2.5,0,1,1,47.5.5,2.5,2.5,0,0,1,50,3Zm6-2a2,2,0,1,0,2,2A2,2,0,0,0,56,1Zm7.5.5A1.5,1.5,0,1,0,65,3,1.5,1.5,0,0,0,63.5,1.5ZM70,2a1,1,0,1,0,1,1A1,1,0,0,0,70,2Zm5.5.5A.5.5,0,1,0,76,3,.5.5,0,0,0,75.5,2.5ZM38,0a3,3,0,1,0,3,3A3,3,0,0,0,38,0ZM28.5.5A2.5,2.5,0,1,0,31,3,2.5,2.5,0,0,0,28.5.5ZM20,1a2,2,0,1,0,2,2A2,2,0,0,0,20,1Zm-7.5.5A1.5,1.5,0,1,0,14,3,1.5,1.5,0,0,0,12.5,1.5ZM6,2A1,1,0,1,0,7,3,1,1,0,0,0,6,2ZM.5,2.5a.5.5,0,0,0,0,1,.5.5,0,0,0,0-1Z&#39; fill=&#39;%23c5c4c2&#39; /%3e%3c/svg%3e&quot;);background-repeat:no-repeat;content:&quot;&quot;;height:6px;width:76px!important}.divider--center::after{margin-left:auto;margin-right:auto;text-align:center}.divider--right::after{margin-left:auto;text-align:right}.align-left{text-align:left}.align-right{text-align:right}.align-center{text-align:center}.align-justify{text-align:justify}.frame{border:1px solid #e1e1e1}.ordered-list{counter-reset:listCounter}.ordered-list li{counter-increment:listCounter;list-style:none;position:relative}.ordered-list li::before{color:#de6b48;content:counter(listCounter,decimal-leading-zero) &quot;.&quot;;font-weight:600;left:-2rem;position:absolute}.msg{padding:1.13333rem 2.26667rem}.msg--highlight{background-color:#f7f5ea}.msg--info{background:#f2f9ff}.msg--success{background:#f7fbf6}.msg--warning{background:#fff3f3;color:#a94442}.dropcap:first-letter{color:#2c2a29;float:left;font-size:4.10989rem;font-weight:600;line-height:.7;margin-right:.56667rem;padding:.56667rem .56667rem .56667rem 0}.pagination{margin-top:1.7rem}@media all and (min-width:56.25em){.pagination{margin-top:3.4rem}}@media all and (min-width:20em){.pagination&gt;a+a{margin-left:.56667rem}}.pagination--numbered ul{margin:0}.pagination--numbered ul li{color:#4a4a4f;display:inline-block;font-size:.88889rem;margin:0 1px;padding:0}.pagination--numbered ul li a,.pagination--numbered ul li strong{border-radius:1px;color:#4a4a4f;padding:.56667rem .85rem}.pagination--numbered ul li a:hover,.pagination--numbered ul li strong:hover{background:#6c6c6f;color:#fff}.pagination--numbered ul li strong{background:#6c6c6f;color:#fff}.blog+.pagination{margin:4rem 0;text-align:center}@media all and (min-width:56.25em){.blog+.pagination{margin-bottom:10rem;text-align:left}}.footer{background:#f3f0e2;color:#6c6c6f;font-size:.88889rem;padding:4rem 0 2.83333rem;text-align:center}@media all and (min-width:56.25em){.footer{padding-top:10rem}}@media all and (min-width:56.25em){.footer--flat{padding-top:5rem}}.footer a{color:#6c6c6f;text-decoration:none;-webkit-transition:all .14s ease-out;-o-transition:all .14s ease-out;transition:all .14s ease-out}.footer a:hover{color:#de6b48}.footer a:active{color:#de6b48}.footer a:focus{color:#de6b48}.footer__logo{display:inline-block;font-size:1.42383rem;font-weight:600;margin:0 0 1.13333rem}.footer__logo&gt;img{max-height:2rem;max-width:5rem}.footer__nav{margin:0}.footer__nav li{display:inline-block;margin:0 .28333rem .56667rem;padding:0;line-height:1}.footer__nav li::after{content:&quot;\2022&quot;;color:#6c6c6f;padding-left:.56667rem}.footer__nav li:last-child::after{content:none}.footer__copy{margin-bottom:1.7rem}.footer__social{margin-bottom:.56667rem}.footer__social a{display:inline-block;margin:0 .4rem;-webkit-transition:all .24s ease;-o-transition:all .24s ease;transition:all .24s ease;will-change:transform}.footer__social a&gt;svg{display:inline-block;fill:#6c6c6f;height:1rem;pointer-events:none;-webkit-transition:all .12s linear 0s;-o-transition:all .12s linear 0s;transition:all .12s linear 0s;width:1rem}.footer__social a:hover{text-decoration:none;-webkit-transform:translateY(-2px);-ms-transform:translateY(-2px);transform:translateY(-2px)}.footer__bttop{bottom:1.41667rem;line-height:1;opacity:0;padding:.51rem;position:fixed;right:2vw;visibility:hidden;z-index:999}@media all and (min-width:56.25em){.footer__bttop{bottom:2.83333rem;right:2.83333rem}}.footer__bttop:hover{opacity:1}.footer__bttop&gt;svg{fill:#fff;height:23px;width:23px}.footer__bttop--show{visibility:visible;opacity:1}.footer__bttop--fade-out{opacity:.6}.newsletter-popup{background:#fff;bottom:-100%;-webkit-box-shadow:0 0 30px rgba(0,0,0,.08);box-shadow:0 0 30px rgba(0,0,0,.08);display:block;font-size:.88889rem;width:26rem;opacity:0;padding:2.83333rem 2.26667rem 2.26667rem;position:fixed;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);-webkit-transition:all .8s ease-out;-o-transition:all .8s ease-out;transition:all .8s ease-out;z-index:1000}@media all and (max-height:48.0625em){.newsletter-popup{display:none}}@media all and (max-width:37.4375em){.newsletter-popup{margin-left:calc((100% - 26rem)/ 2)}}@media all and (min-width:37.5em){.newsletter-popup{right:2rem}}.newsletter-popup.is-visible{bottom:2rem;opacity:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.newsletter-popup__close{background:0 0!important;-webkit-box-shadow:none!important;box-shadow:none!important;border:0;color:#4a4a4f;font-size:1.125rem;position:absolute;right:0;top:0;width:auto}.newsletter-popup__close:hover{color:#ef5350;-webkit-transform:translate(0);-ms-transform:translate(0);transform:translate(0)}@media all and (min-width:37.5em){.newsletter-popup form{font-size:90%}}.newsletter-popup svg{fill:#de6b48}.newsletter-popup h3{margin-top:0}.newsletter-popup a{text-decoration:underline;-webkit-text-decoration-skip:ink;text-decoration-skip:ink}.newsletter-popup p{margin:.56667rem 0 1.13333rem}.newsletter-popup input[type=email],.newsletter-popup input[type=text]{margin-top:.56667rem;width:100%}.newsletter-popup input[type=email]:focus,.newsletter-popup input[type=text]:focus{-webkit-box-shadow:inset 0 0 2px #de6b48;box-shadow:inset 0 0 2px #de6b48;border:1px solid #de6b48}.newsletter-popup__agree{margin:1.13333rem 0 0;text-align:left}.newsletter-popup__agree li{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start;padding:0}.newsletter-popup__agree li label{font-weight:400;margin-left:2.1rem;margin-right:0}.newsletter-popup__agree li label:before{margin-left:-2.1rem}.gallery{margin:calc(2.26667rem + .25vw) -.28333rem}@media all and (min-width:20em){.gallery{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}}@media all and (min-width:20em){.gallery[data-columns=&quot;1&quot;] .gallery__item{-webkit-box-flex:1;-ms-flex:1 0 100%;flex:1 0 100%}}@media all and (min-width:30em){.gallery[data-columns=&quot;2&quot;] .gallery__item{-webkit-box-flex:1;-ms-flex:1 0 50%;flex:1 0 50%}}@media all and (min-width:37.5em){.gallery[data-columns=&quot;3&quot;] .gallery__item{-webkit-box-flex:1;-ms-flex:1 0 33.333%;flex:1 0 33.333%}}@media all and (min-width:56.25em){.gallery[data-columns=&quot;4&quot;] .gallery__item{-webkit-box-flex:0;-ms-flex:0 1 25%;flex:0 1 25%}}@media all and (min-width:56.25em){.gallery[data-columns=&quot;5&quot;] .gallery__item{-webkit-box-flex:0;-ms-flex:0 1 20%;flex:0 1 20%}}@media all and (min-width:56.25em){.gallery[data-columns=&quot;6&quot;] .gallery__item{-webkit-box-flex:0;-ms-flex:0 1 16.666%;flex:0 1 16.666%}}@media all and (min-width:56.25em){.gallery[data-columns=&quot;7&quot;] .gallery__item{-webkit-box-flex:1;-ms-flex:1 0 14.285%;flex:1 0 14.285%}}@media all and (min-width:56.25em){.gallery[data-columns=&quot;8&quot;] .gallery__item{-webkit-box-flex:1;-ms-flex:1 0 12.5%;flex:1 0 12.5%}}.gallery__item{margin:0;padding:.28333rem;position:relative}@media all and (min-width:20em){.gallery__item{-webkit-box-flex:1;-ms-flex:1 0 50%;flex:1 0 50%}}@media all and (min-width:30em){.gallery__item{-webkit-box-flex:1;-ms-flex:1 0 33.333%;flex:1 0 33.333%}}@media all and (min-width:37.5em){.gallery__item{-webkit-box-flex:1;-ms-flex:1 0 25%;flex:1 0 25%}}.gallery__item a{display:block;height:100%;width:100%}.gallery__item a::after{background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.4)),to(rgba(0,0,0,0)));background:-webkit-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:-o-linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);background:linear-gradient(bottom,rgba(0,0,0,.4) 0,rgba(0,0,0,0) 100%);bottom:.28333rem;content:&quot;&quot;;display:block;opacity:0;left:.28333rem;height:calc(100% - .56667rem);position:absolute;right:.28333rem;top:.28333rem;-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out;width:calc(100% - .56667rem)}.gallery__item a:hover::after{opacity:1}.gallery__item img{display:block;height:100%;-o-object-fit:cover;object-fit:cover;width:100%}.gallery__item figcaption{bottom:1.2rem;color:#fff;left:50%;opacity:0;position:absolute;text-align:center;-webkit-transform:translate(-50%,1.2rem);-ms-transform:translate(-50%,1.2rem);transform:translate(-50%,1.2rem);-webkit-transition:all .24s ease-out;-o-transition:all .24s ease-out;transition:all .24s ease-out}.gallery__item:hover figcaption{opacity:1;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0)}.pswp--dark .pswp__bg{background:#000}.pswp--light .pswp__bg{background:#fff}.pswp--light .pswp__counter{color:#2c2a29}.pswp--light .pswp__caption__center{color:#4a4a4f}html{font-size:1rem}@media screen and (min-width:20rem){html{font-size:calc(1rem + (1.2 - 1) * ((100vw - 20rem)/ 113))}}@media screen and (min-width:133rem){html{font-size:1.2rem}}body{background:rgba(255,255,255,.27)}.page{-webkit-box-shadow:0 0 30px rgba(76,72,69,.65);box-shadow:0 0 30px rgba(76,72,69,.65)}body{color:#000}.btn--white{color:#000!important}.post__share-popup a{color:#000}.pswp--light .pswp__caption__center{color:#000}h1,h2,h3,h4,h5,h6{color:#4c4845;font-weight:600;text-transform:none}.dropcap::first-letter{color:#4c4845;font-weight:600}a{color:#1193d0}.invert:hover{color:#1193d0}.invert:active{color:#1193d0}.invert:focus{color:#1193d0}.post__entry a:active,.post__entry a:focus,.post__entry a:hover{color:#1193d0}a:hover{color:#4c4845}a:active{color:#4c4845}a:focus{color:#4c4845}.invert{color:#4c4845}::-moz-selection{background:#1193d0}::selection{background:#1193d0}.btn:not(.btn--white):not(.btn--yellow):not(.btn--green):not(.btn--gray):not(.btn--color):not(.btn--outline),[type=button]:not(.btn--white):not(.btn--yellow):not(.btn--green):not(.btn--gray):not(.btn--color):not(.btn--outline),[type=submit]:not(.btn--white):not(.btn--yellow):not(.btn--green):not(.btn--gray):not(.btn--color):not(.btn--outline),button:not(.btn--white):not(.btn--yellow):not(.btn--green):not(.btn--gray):not(.btn--color):not(.btn--outline){background:#1193d0;border-color:#1193d0}[type=email]:focus,[type=number]:focus,[type=search]:focus,[type=tel]:focus,[type=text]:focus,[type=url]:focus,select:focus,textarea:focus{border-color:#1193d0}input[type=checkbox]:checked+label:before,input[type=radio]:checked+label:before{background-image:url(&quot;data:image/svg+xml;charset=UTF-8,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 11 8&#39;%3e%3cpolygon points=&#39;9.53 0 4.4 5.09 1.47 2.18 0 3.64 2.93 6.54 4.4 8 5.87 6.54 11 1.46 9.53 0&#39; fill=&#39;%231193D0&#39;/%3e%3c/svg%3e&quot;);border-color:#1193d0}select[multiple]:focus{border-color:#1193d0}select[multiple]:focus option:checked{background:#1193d0 linear-gradient(0deg,#1193d0 0,#1193d0 100%)}blockquote:before{color:#1193d0}.ordered-list li::before{color:#1193d0}.search__close:hover:after,.search__close:hover:before{background-color:#1193d0}.subscribe input[type=email]:focus,.subscribe input[type=text]:focus{-webkit-box-shadow:inset 0 0 2px #1193d0;box-shadow:inset 0 0 2px #1193d0;border-color:#1193d0}.btn--dark{background:#1193d0!important;border-color:#1193d0!important;color:#fff!important}.btn--white{background:#fff!important;border-color:#fff!important;color:#fff!important}.btn--green{background:#314c50!important;border-color:#314c50!important;color:#fff!important}.btn--yellow{background:#1193d0!important;border-color:#1193d0!important;color:#fff!important}.btn--outline{border:1px solid #6c6c6f!important;color:#fff}.page__item-image__wrap{background:#f7f8fb}pre{background-color:#f7f8fb}code{background-color:#f7f8fb}.table-striped tr:nth-child(2n){background:#f7f8fb}.table-title th{background:#f7f8fb}.post__tag li&gt;a{background:#f7f8fb}.msg--success{background-color:#d5efcf}.navbar .navbar__menu li a:active,.navbar .navbar__menu li a:focus,.navbar .navbar__menu li a:hover,.navbar .navbar__menu li span[aria-haspopup=true]:active,.navbar .navbar__menu li span[aria-haspopup=true]:focus,.navbar .navbar__menu li span[aria-haspopup=true]:hover{color:#6c6c6f}.navbar .navbar__menu&gt;li:hover&gt;a,.navbar .navbar__menu&gt;li:hover&gt;span[aria-haspopup=true]{color:#6c6c6f}.navbar .navbar__menu&gt;li:hover&gt;a,.navbar .navbar__menu&gt;li:hover&gt;span[aria-haspopup=true]{background:#fff}.navbar .navbar__submenu li a,.navbar .navbar__submenu li span[aria-haspopup=true]{color:#6c6c6f!important}.navbar .navbar__submenu li span{color:#6c6c6f!important}.navbar .navbar__submenu li a:active,.navbar .navbar__submenu li a:focus,.navbar .navbar__submenu li a:hover,.navbar .navbar__submenu li span[aria-haspopup=true]:active,.navbar .navbar__submenu li span[aria-haspopup=true]:focus,.navbar .navbar__submenu li span[aria-haspopup=true]:hover{background:#879a9f;color:#fff!important}.navbar .navbar__submenu li:hover&gt;a,.navbar .navbar__submenu li:hover&gt;span[aria-haspopup=true]{color:#fff!important}.header.is-visible{background:rgba(135,154,159,.63)}.navbar__menu.is-visible{background:rgba(135,154,159,.63)}.header.is-visible{-webkit-box-shadow:0 0 6px rgba(206,200,200,.2);box-shadow:0 0 6px rgba(206,200,200,.2)}.header.is-visible .logo{color:#fff!important}.navbar__menu.is-sticky li a,.navbar__menu.is-sticky li span,.navbar__menu.is-sticky li span[aria-haspopup=true],.navbar__menu.is-sticky&gt;li:hover&gt;a,.navbar__menu.is-sticky&gt;li:hover&gt;span[aria-haspopup=true]{color:#fff}.navbar__menu.is-sticky li a:active,.navbar__menu.is-sticky li a:focus,.navbar__menu.is-sticky li a:hover,.navbar__menu.is-sticky li span[aria-haspopup=true]:active,.navbar__menu.is-sticky li span[aria-haspopup=true]:focus,.navbar__menu.is-sticky li span[aria-haspopup=true]:hover{color:#6c6c6f}.navbar__menu.is-sticky&gt;li:hover&gt;a,.navbar__menu.is-sticky&gt;li:hover&gt;span[aria-haspopup=true]{background:#fff}.navbar_mobile_overlay{background:rgba(17,147,208,.74)}.navbar_mobile_sidebar{background:rgba(17,147,208,.74)}.hero__image--overlay::after{background:rgba(135,154,159,.6901960784313725)}@media all and (min-width:37.5em){.hero{height:20vh}}@media all and (min-width:37.5em){.hero__wrapper{height:20vh}}.header--flat-no-hero{background:#879a9f}.hero{background:#879a9f}.main::before{background:#879a9f}.hero__inner&gt;*{color:#879a9f}.hero__button{background:#1193d0!important;border-color:#1193d0!important;color:#fff!important}.bottom-news{background:#879a9f;color:#6c6c6f}.footer{background:#2e2e2e;color:#fff}.footer__social a&gt;svg{fill:#fff}.footer__logo{color:#fff!important}.footer__logo:active,.footer__logo:focus,.footer__logo:hover{color:#c0b49a!important}.footer a{color:#fff}.footer__nav li::after{color:#fff}.footer a:active,.footer a:focus,.footer a:hover{color:#c0b49a}.lazyload,.lazyloading{opacity:0}.lazyloaded{opacity:1;transition:opacity 1s cubic-bezier(.215,.61,.355,1)}.logo{height:100%}.logo&gt;img{max-height:22vh;max-width:33vh}.footer__logo&gt;img{max-height:15rem;max-width:15rem}@media all and (min-width:56.25em){.navbar__menu&gt;li{border-style:outset;border-width:1.5px}}.hero,.hero__wrapper{height:22vh}.hero__inner&gt;*{color:#879a9f}.hero__button-wrap{margin-top:calc(4rem)}.page__item-readmore{text-align:center}</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm5 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM13 7.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Anna-Volhart/anna-volhart.github.io/blame/b078d47333549ee59b7f863dd391938006e489e8/assets/css/style.css">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Anna-Volhart/anna-volhart.github.io/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-qRIR9sJtW+F0sy3P1EuUI81C+jzXTa54zUOyTmKhz64cc/Wj2XT1nnh23ZjWj1CFf8tO9LOn49s79ilOILcGkA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-a91211f6.js"></script>
+      <script crossorigin="anonymous" async="async" integrity="sha512-qUt0W3Q++EcTV/FjWCH4pkCuFrwLmBaxXaem85oHWp5D40Jb6WozJdUpeKQgU3fguUZ7cqxD1gpjU6f4u3ScKg==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-a94b745b.js"></script>
+      <script crossorigin="anonymous" async="async" integrity="sha512-rgIRUbqgpAtwFR6lNuW9DuiSVk+gbHzQ/lEcAp6761XMCTO1v6u6kMjlhnn+mW3zSTzwUBO9hkMvfgeNhPiSwA==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-ae021151.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-uhFW7jBCe4MB/BelZxBqEbkA802lS//XeCrBsrl19aKSdq57weX85DETrTgMTEqhVIzlYNuYYnuKsXcQhhK6EQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-ba1156ee.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+
