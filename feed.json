@@ -23,8 +23,8 @@
             "tags": [
                    "Handboek"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/voorbeeldpaginas.html",
@@ -38,8 +38,8 @@
             "tags": [
                    "Handboek"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/coronamaatregelen.html",
@@ -53,23 +53,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
-        },
-        {
-            "id": "https://voorbereiding-toelatingsexamen.be/errata.html",
-            "url": "https://voorbereiding-toelatingsexamen.be/errata.html",
-            "title": "Errata",
-            "summary": "<p>Hoewel dit boek op zorgvuldige wijze is samengesteld en grondig is nagelezen, zijn technische of typografische fouten niet uitgesloten. Indien je bij het studeren fouten vaststelt kan je deze steeds melden via mail: <a href=\"mailto:info@voorbereiding-toelatingsexamen.be\">info@voorbereiding-toelatingsexamen.be</a>.</p>\n",
-            "content_html": "<p>Hoewel dit boek op zorgvuldige wijze is samengesteld en grondig is nagelezen, zijn technische of typografische fouten niet uitgesloten. Indien je bij het studeren fouten vaststelt kan je deze steeds melden via mail: <a href=\"mailto:info@voorbereiding-toelatingsexamen.be\">info@voorbereiding-toelatingsexamen.be</a>.</p>\n\n<p>Erratalijst:</p>\n<ul>\n<li>Biologie - juli 2015 - vraag 3: C is het correcte antwoord.</li>\n</ul>",
-            "author": {
-                "name": "Anna Volhart"
-            },
-            "tags": [
-                   "Handboek"
-            ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/wil-je-arts-of-tandarts-worden.html",
@@ -83,8 +68,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/resultaat-toelatingsexamen.html",
@@ -98,8 +83,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/dag-zelf-toelatingsexamen.html",
@@ -114,8 +99,8 @@
             "tags": [
                    "Examen"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/inschrijven-toelatingsexamen.html",
@@ -130,8 +115,8 @@
             "tags": [
                    "Examen"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/toelatingsproef-geneeskunde-tandheelkunde-2020.html",
@@ -146,8 +131,8 @@
             "tags": [
                    "Voorbereiding"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         },
         {
             "id": "https://voorbereiding-toelatingsexamen.be/voorbereiding-toelatingsexamen-geneeskunde-tandheelkunde.html",
@@ -162,8 +147,8 @@
             "tags": [
                    "Voorbereiding"
             ],
-            "date_published": "2020-07-04T14:07:15+02:00",
-            "date_modified": "2020-07-04T14:07:15+02:00"
+            "date_published": "2020-08-04T22:32:25+02:00",
+            "date_modified": "2020-08-04T22:32:25+02:00"
         }
     ]
 }
