@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Voorbereiding Toelatingsexamen Arts &amp; Tandarts</title>
     <link href="https://voorbereiding-toelatingsexamen.be/feed.xml" rel="self" />
     <link href="https://voorbereiding-toelatingsexamen.be" />
@@ -16,23 +16,23 @@
         </author>
         <link href="https://voorbereiding-toelatingsexamen.be/cursus-toelatingsproef-geneeskunde-tandheelkunde.html"/>
         <id>https://voorbereiding-toelatingsexamen.be/cursus-toelatingsproef-geneeskunde-tandheelkunde.html</id>
-            <category term="Handboek"/>
+        <media:content url="https://voorbereiding-toelatingsexamen.be/media/posts/21/cursus-ampulle_compressed.jpg" medium="image" />
 
-        <updated>2024-09-23T16:14:02+02:00</updated>
+        <updated>2021-02-13T09:00:00+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://voorbereiding-toelatingsexamen.be/media/posts/21/cursus-ampulle_compressed.jpg" alt="" />
                     <p>De cursus Voorbereiding Toelatingsexamens Arts, Tandarts &amp; Dierenarts omvat alles om je klaar te stomen voor het <strong>wetenschapsgedeelte (KIW)</strong> van de toelatingsexamens.</p>
-<figure class="post__image post__image--center"><a href="https://www.skribis.be/nl/voorbereiding-toelatingsexamen-arts-tandarts-dierenarts-editie-2023.html" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://voorbereiding-toelatingsexamen.be/media/posts/21/skr45466_cover.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xs.png 300w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-sm.png 480w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-md.png 749w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xl.png 1200w"  alt="" width="300" height="424"></figure></a></p>
+<figure class="post__image post__image--center"><a href="https://www.skribis.be/nl/voorbereiding-toelatingsexamen-arts-tandarts-dierenarts-editie-2023.html" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://voorbereiding-toelatingsexamen.be/media/posts/21/skr45466_cover.png" alt="" width="300" height="424" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xs.png 300w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-sm.png 480w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-md.png 749w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xl.png 1200w"></figure></a></p>
 <ol>
 <li><strong>Theorie volgens het leerstofoverzicht 2024.</strong><br>In het eerste deel van dit boek word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2024.<br><br>
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://voorbereiding-toelatingsexamen.be/media/posts/21/cursus-ampulle_compressed.jpg" alt="" />
+                    <p><img src="https://voorbereiding-toelatingsexamen.be/media/posts/21/cursus-ampulle_compressed.jpg" class="type:primaryImage" alt="" /></p>
                 <p>De cursus Voorbereiding Toelatingsexamens Arts, Tandarts &amp; Dierenarts omvat alles om je klaar te stomen voor het <strong>wetenschapsgedeelte (KIW)</strong> van de toelatingsexamens.</p>
-<figure class="post__image post__image--center"><a href="https://www.skribis.be/nl/voorbereiding-toelatingsexamen-arts-tandarts-dierenarts-editie-2023.html" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://voorbereiding-toelatingsexamen.be/media/posts/21/skr45466_cover.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xs.png 300w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-sm.png 480w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-md.png 749w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xl.png 1200w"  alt="" width="300" height="424"></figure></a></p>
+<figure class="post__image post__image--center"><a href="https://www.skribis.be/nl/voorbereiding-toelatingsexamen-arts-tandarts-dierenarts-editie-2023.html" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://voorbereiding-toelatingsexamen.be/media/posts/21/skr45466_cover.png" alt="" width="300" height="424" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xs.png 300w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-sm.png 480w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-md.png 749w ,https://voorbereiding-toelatingsexamen.be/media/posts/21/responsive/skr45466_cover-xl.png 1200w"></figure></a></p>
 <ol>
 <li><strong>Theorie volgens het leerstofoverzicht 2024.</strong><br>In het eerste deel van dit boek word je doorheen de theorie van de verschillende wetenschapsvakken geloodst, bevattelijk uitgelegd en ingedeeld volgens het officiële leerstofoverzicht 2024.<br><br></li>
 <li><strong>Meer dan 700 uitgewerkte examenvragen.<br></strong>Het tweede deel bestaat uit meer dan 700 uitgewerkte examenvragen van vorige jaargangen, ingedeeld per vak. </li>
@@ -44,66 +44,15 @@
         </content>
     </entry>
     <entry>
-        <title>Inhoudstafel</title>
-        <author>
-            <name>Anna Volhart</name>
-        </author>
-        <link href="https://voorbereiding-toelatingsexamen.be/voorbeeldpaginas-2.html"/>
-        <id>https://voorbereiding-toelatingsexamen.be/voorbeeldpaginas-2.html</id>
-            <category term="Handboek"/>
-
-        <updated>2024-02-07T15:22:24+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://voorbereiding-toelatingsexamen.be/media/posts/36/Ingangsexamen-cursus-inhoudstafel.jpg" alt="" />
-                    De inhoudstafel kan je hier raadplegen. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://voorbereiding-toelatingsexamen.be/media/posts/36/Ingangsexamen-cursus-inhoudstafel.jpg" alt="" />
-                <p><a href="https://voorbereiding-toelatingsexamen.be/media/files/Voorbeeldpagina's handboek voorbereiding toelatingsexamen arts &amp; tandarts 2021.pdf" target="_blank" rel="noopener noreferrer"></a><a href="https://voorbereiding-toelatingsexamen.be/media/files/Inhoud handboek voorbereiding toelatingsexamen arts &amp; tandarts 2021.pdf" target="_blank" rel="noopener noreferrer"></a><a href="https://voorbereiding-toelatingsexamen.be/media/files/Inhoud handboek voorbereiding toelatingsexamen arts &amp; tandarts 2022.pdf" target="_blank" rel="noopener noreferrer"><strong>De inhoudstafel kan je hier raadplegen</strong>. </a></p>
-<p> </p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Voorbeeldpagina&#x27;s</title>
-        <author>
-            <name>Anna Volhart</name>
-        </author>
-        <link href="https://voorbereiding-toelatingsexamen.be/voorbeeldpaginas.html"/>
-        <id>https://voorbereiding-toelatingsexamen.be/voorbeeldpaginas.html</id>
-            <category term="Handboek"/>
-
-        <updated>2024-05-13T15:38:22+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://voorbereiding-toelatingsexamen.be/media/posts/35/Ingangsexamen-cursus-voorbeeldpaginas.jpg" alt="" />
-                     Voorbeeldpagina's van het handboek Voorbereiding Toelatingsexamen Arts &amp; Tandarts: theorie en oefeningen van zowel biologie, chemie, fysica en wiskunde vind je hier. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://voorbereiding-toelatingsexamen.be/media/posts/35/Ingangsexamen-cursus-voorbeeldpaginas.jpg" alt="" />
-                <p><br>Voorbeeldpagina's van het handboek Voorbereiding Toelatingsexamen Arts &amp; Tandarts: theorie en oefeningen van zowel biologie, chemie, fysica en wiskunde vind je<strong> <a href="https://voorbereiding-toelatingsexamen.be/media/files/Voorbeeldpagina's handboek voorbereiding toelatingsexamen arts &amp; tandarts 2021.pdf" title="Voorbeeldpagina's handboek voorbereiding toelatingsexamen arts &amp; tandarts 2021" target="_blank" rel="noopener noreferrer">hier</a>. </strong></p>
-<p> </p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Wil je arts, tandarts of dierenarts worden ?</title>
         <author>
             <name>Anna Volhart</name>
         </author>
         <link href="https://voorbereiding-toelatingsexamen.be/wil-je-arts-of-tandarts-worden.html"/>
         <id>https://voorbereiding-toelatingsexamen.be/wil-je-arts-of-tandarts-worden.html</id>
+        <media:content url="https://voorbereiding-toelatingsexamen.be/media/posts/30/toelatingsexamen-arts-tandarts.jpg" medium="image" />
 
-        <updated>2024-09-23T16:12:20+02:00</updated>
+        <updated>2020-04-11T15:45:15+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://voorbereiding-toelatingsexamen.be/media/posts/30/toelatingsexamen-arts-tandarts.jpg" alt="" />
@@ -112,7 +61,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://voorbereiding-toelatingsexamen.be/media/posts/30/toelatingsexamen-arts-tandarts.jpg" alt="" />
+                    <p><img src="https://voorbereiding-toelatingsexamen.be/media/posts/30/toelatingsexamen-arts-tandarts.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Ben je van plan geneeskunde, tandheelkunde of diergeneeskunde te studeren? Dan dien je in Vlaanderen te slagen én gunstig gerangschikt te worden voor de Toelatingsexamens arts, tandarts &amp; dierenarts.<br><br>Deze rangschikking werd sedert 2018 doorgevoerd. Sindsdien wordt het toelatingsexamen slechts één keer per jaar georganiseerd. Vanaf 2023 is er ook een toelatingsexamen voor dierenarts.<br><br>Een doordachte en grondige voorbereiding is dus van belang indien je de studie geneeskunde, tandheelkunde of diergeneeskunde wil aanvatten. <br><br><strong><a href="https://voorbereiding-toelatingsexamen.be/cursus-toelatingsproef-geneeskunde-tandheelkunde.html">De cursus 'Voorbereiding toelatingsexamen Arts, Tandarts &amp; Dierenarts'</a></strong>, een handboek met zowel theorie als oefeningen, omvat alles om je klaar te stomen voor het toelatingsexamen.</p>
             ]]>
         </content>
